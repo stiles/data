@@ -1,0 +1,6 @@
+# White House Staff Salaries: 2009-2016
+Each year, the White House is required to deliver a report to Congress listing the title and salary of each employee. The Obama administration made [these disclosures](https://obamawhitehouse.archives.gov/briefing-room/disclosures/annual-records/2009) in [2009](https://obamawhitehouse.archives.gov/briefing-room/disclosures/annual-records/2009), [2010](https://obamawhitehouse.archives.gov/briefing-room/disclosures/annual-records/2010), [2011](https://obamawhitehouse.archives.gov/briefing-room/disclosures/annual-records/2011), [2012](https://obamawhitehouse.archives.gov/briefing-room/disclosures/annual-records/2012), [2013](https://obamawhitehouse.archives.gov/briefing-room/disclosures/annual-records/2013), [2014](https://obamawhitehouse.archives.gov/briefing-room/disclosures/annual-records/2014), [2015](https://obamawhitehouse.archives.gov/briefing-room/disclosures/annual-records/2015) and [2016](https://obamawhitehouse.archives.gov/briefing-room/disclosures/annual-records/2016).
+
+Here they are in CSV format — in one place. 
+
+Hope this is useful.
