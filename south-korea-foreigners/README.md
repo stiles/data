@@ -6,17 +6,30 @@ The data do not include submunicipal categories, such as neighborhoods or villag
 
 The [data set](http://kosis.kr/statHtml/statHtml.do?orgId=110&tblId=TX_11025_A001&language=en&conn_path=I3), courtesy the KOrean Statistical Information Service, or [KOSIS](http://kosis.kr/eng/), contains IDs to allow for joins with geographic or other data. I've also calculated a foreign rate for each geographic category.
 
-Fields: 
+**FIELDS**
 
 **GEOID:** Main identification number, shorter for broader geography levels (Seoul = 11; Yongsan District = 11030. The ID together = 1111030)
+
 **CityProvinceID:** ID for city or province
+
 **CityProvince:** City or province name
+
 **MunicipalityID:** ID for "municipality", which can mean district or county, depending on whether the main geographic division is a major city (Seoul) or a province (Gyeonggi)
+
 **Municipality:** Municipality name
+
 **TotalPopulation:** 2015 total population in each place
+
 **ForeignPopulation:** 2015 total registered foreign population (the foreigners who have told the government they are here, including Chinese Koreans, migrant workers, foreign spouses, others foreigners like me, etc.)
+
 **ForeignerRate:** Percentage of foreigners in each place
 
 
-*Notes: 1. Seoul and some other large cities are autonomous from adjacent or surrounding provinces. 2. Sejong, a special self-governing city, is included as both a city/province and as a municipality. 3. **[South Korean geography](https://en.wikipedia.org/wiki/Administrative_divisions_of_South_Korea) is hard.***
+**NOTES**
+
+*1. Seoul and some other large cities are autonomous from adjacent or surrounding provinces.*
+
+*2. Sejong, a special self-governing city, is included as both a city/province and as a municipality.*
+
+*3. **[South Korean geography](https://en.wikipedia.org/wiki/Administrative_divisions_of_South_Korea) is hard.***
 
