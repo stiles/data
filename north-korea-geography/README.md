@@ -6,7 +6,9 @@ North Korea's top-level geography consists of what I've labeled here generally a
 
 Also included here is a secondary layer of geography for I've labeled as **counties**. Most of these are known as *gun* — like counties — in Korean. Others are just smaller municipal subunits, such as [Kaesong city](https://en.wikipedia.org/wiki/Kaesong), for example. 
 
-These province and county files are uploaded in several formats, including ```geojson``` and ```topojson```, which can be used in web applications, and ```shapefiles```, which can be used with common GIS software. All three file types also come with simplified versions for national-level presentations. 
+These province and county files are uploaded in several formats, including ```geojson``` and ```topojson```, which can be used in web applications, and ```shapefiles```, which can be used with common GIS software. 
+
+All three file types also come with simplified versions for national-level presentations. Thanks, [mapshaper](http://mapshaper.org/).  
 
 In addition, there's a ```topojson``` file with rivers and lakes. 
 
