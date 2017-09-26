@@ -18,4 +18,4 @@ The data are courtesy [DIVA-GIS](http://www.diva-gis.org/datadown).
 
 *1. The provinces file has been edited by me for clarity (and to include some waterways that cut through the geographic boundaries)*.
 
-*2. Like geography in [South Korea(https://en.wikipedia.org/wiki/Administrative_divisions_of_South_Korea)], administrative divisions in North Korea can be confusing for Westerners. Read a primer [here](https://en.wikipedia.org/wiki/Administrative_divisions_of_North_Korea) to learn more.*
+*2. Like geography in [South Korea](https://en.wikipedia.org/wiki/Administrative_divisions_of_South_Korea), administrative divisions in North Korea can be confusing for Westerners. Read a primer [here](https://en.wikipedia.org/wiki/Administrative_divisions_of_North_Korea) to learn more.*
