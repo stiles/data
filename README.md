@@ -6,7 +6,8 @@ I'm slowly adding dozens of data sets in an effort to archive my work and help o
 Data set | Description
 ------------ | -------------
 [dmz](https://github.com/mattstiles/data/tree/master/dmz) | GIS data plotting the South Korea-North Korea border in various formats
-[obama-staff-2009-2016]() | President Obama's staff and their salaries over the years
+[north-korea-geography](https://github.com/mattstiles/data/tree/master/north-korea-geography) | GIS data detailing boundaries for North Korean counties, states and rivers and lakes
+[obama-staff-2009-2016](https://github.com/mattstiles/data/tree/master/obama-staff-2009-2016) | President Obama's staff and their salaries over the years
 [south-korea-foreigners](https://github.com/mattstiles/data/tree/master/south-korea-foreigners) | Foreigner population totals (and rates) at top-level categories of geography (major cities/provinces and districts/counties)
 [south-korea-population](https://github.com/mattstiles/data/tree/master/south-korea-population) | Population totals at all categories of geography
 [trump-staff-2017](https://github.com/mattstiles/data/tree/master/trump-staff-2017) | President Trump's staff in summer 2017
