@@ -1,10 +1,10 @@
 # Precipitation in North Korea
 
-This data includes historic precipitation totals for several locations around North Korea. The data were scraped from Weather Underground's monthly history pages listing weather conditions at a dozen monitoring stations across the country. The data include more than 10,000 monthly observations from January 2005 to October 2017.
+These data includes historic precipitation totals for several locations around North Korea. The data were scraped from Weather Underground's monthly history pages listing weather conditions at a dozen monitoring stations across the country. The data include more than 10,000 monthly observations from January 2005 to October 2017.
 
-The locations of each weather station are included in the table below, with links to the monthly reports from October 2017. Changing the URL structure ( the year or month or station ID) will return different records, depending on the date and location.
+The locations of each weather station are included in the table below, with links to the monthly reports from October 2017. Changing the URL structure (the year or month or station ID) will return different records, depending on the date and location.
 
-The stations were geocoded using common tools, such as Google Maps. North Korean geography can be tricky, however, so please [let me know](mailto:mattstiles@gmail.com) if you spot any errors. The location names were pulled directly from Weather Underground and may differ from more common romanized versions of North Korean geographic conventions.
+The stations were geocoded using common tools, such as Google Maps. North Korean geography can be tricky, however, so please [let me know](mailto:mattstiles@gmail.com) if you spot any errors. The location spellings were pulled directly from Weather Underground and may differ from more common (or prefered) romanized versions of North Korean names.
 
 Station/URL | Latitude | Longitude | Province | Location Name | Agricultural Area
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
