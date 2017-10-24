@@ -22,3 +22,18 @@ Station/URL | Latitude | Longitude | Province | Location Name | Agricultural Are
 [47070](https://www.wunderground.com/history/wmo/47070/2017/10/01/MonthlyHistory.html) | 38.065833 | 126.374167 | South Hwanghae | Hadongjin | y
 
 The locations are mapped [here](https://fusiontables.google.com/embedviz?q=select+col1+from+1j_xU66hgKuES1RzuHIspQwuWcC51GThR-RRJR-v1&viz=MAP&h=false&lat=38.87106450954273&lng=127.00479346093745&t=4&z=7&l=col1&y=2&tmplt=2&hml=TWO_COL_LAT_LNG).
+
+The data have numerous fields combined from two relational tables into one flat file: 
+
+**station:** Station ID listed by Weather Underground (in url)
+**date_original:** The date pulled by the scraper
+**precip_sum:** The monthly precipitation, either rain or snow, in millimeters
+**year:** year extracted from date_original
+**month:** month extracted from date_original
+**lat:** latitude (some more precise than others)
+**long:** longitude (some more precise than others)
+**province:** province (or city, such as Pyongyang) as the weather station
+**name:** name of station listed by Weather Underground
+**agarea:** y=a province in the south or west, the main farming regions
+
+
