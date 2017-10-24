@@ -11,6 +11,7 @@ Data set | Description
 [south-korea-foreigners](https://github.com/mattstiles/data/tree/master/south-korea-foreigners) | Foreigner population totals (and rates) at top-level categories of geography (major cities/provinces and districts/counties)
 [south-korea-population](https://github.com/mattstiles/data/tree/master/south-korea-population) | Population totals at all categories of geography
 [trump-staff-2017](https://github.com/mattstiles/data/tree/master/trump-staff-2017) | President Trump's staff in summer 2017
+[koreas-population-projections](https://github.com/mattstiles/data/tree/master/koreas-population-projections) | Historic and future population figures for South Korea and North Korea
 
 *Suggestions?? Questions?? Corrections??*
 
