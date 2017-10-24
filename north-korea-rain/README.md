@@ -1,4 +1,4 @@
-# Rain in North Korea
+# Precipitation in North Korea
 
 This data includes historic precipitation data for several locations around North Korea. The data were scraped from Weather Underground's monthly history pages listing weather conditions at a dozen monitoring stations across the country. The data include more than 10,000 monthly observations from January 2005 to October 2017.
 
