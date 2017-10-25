@@ -25,7 +25,7 @@ The locations are mapped [here](https://fusiontables.google.com/embedviz?q=selec
 
 The data have numerous fields combined from two relational tables into one flat file: 
 
-**station:** Station ID listed by Weather Underground (in url)
+**station:** ID listed by Weather Underground (in url)
 
 **date_original:** The date pulled by the scraper
 
