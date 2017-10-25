@@ -4,6 +4,21 @@ These data includes historic precipitation totals for several locations around N
 
 The locations of each weather station are included in the table below, with links to the monthly reports from October 2017. Changing the URL structure (the year or month or station ID) will return different records, depending on the date and location.
 
+The data have numerous fields combined from two relational tables into one flat file: 
+
+Field name | Description
+------------ | ------------- 
+**station:** | ID listed by Weather Underground (in url)
+**date_original:** | The date pulled by the scraper
+**precip_sum:** | The monthly precipitation, either rain or snow, in millimeters
+**year:** | year extracted from date_original
+**month:** | month extracted from date_original
+**lat:** | latitude (some more precise than others)
+**long:** | longitude (some more precise than others)
+**province:** | province (or city, such as Pyongyang) as the weather station
+**name:** | name of station listed by Weather Underground
+**agarea:** | y=a province in the south or west, the main farming regions
+
 The stations were geocoded using common tools, such as Google Maps. North Korean geography can be tricky, however, so please [let me know](mailto:mattstiles@gmail.com) if you spot any errors. The location spellings were pulled directly from Weather Underground and may differ from more common (or prefered) romanized versions of North Korean names.
 
 Station/URL | Latitude | Longitude | Province | Location Name | Agricultural Area
@@ -22,26 +37,4 @@ Station/URL | Latitude | Longitude | Province | Location Name | Agricultural Are
 [47070](https://www.wunderground.com/history/wmo/47070/2017/10/01/MonthlyHistory.html) | 38.065833 | 126.374167 | South Hwanghae | Hadongjin | y
 
 The locations are mapped [here](https://fusiontables.google.com/embedviz?q=select+col1+from+1j_xU66hgKuES1RzuHIspQwuWcC51GThR-RRJR-v1&viz=MAP&h=false&lat=38.87106450954273&lng=127.00479346093745&t=4&z=7&l=col1&y=2&tmplt=2&hml=TWO_COL_LAT_LNG).
-
-The data have numerous fields combined from two relational tables into one flat file: 
-
-**station:** ID listed by Weather Underground (in url)
-
-**date_original:** The date pulled by the scraper
-
-**precip_sum:** The monthly precipitation, either rain or snow, in millimeters
-
-**year:** year extracted from date_original
-
-**month:** month extracted from date_original
-
-**lat:** latitude (some more precise than others)
-
-**long:** longitude (some more precise than others)
-
-**province:** province (or city, such as Pyongyang) as the weather station
-
-**name:** name of station listed by Weather Underground
-
-**agarea:** y=a province in the south or west, the main farming regions
 
