@@ -10,7 +10,7 @@ Field name | Description
 ------------ | ------------- 
 **station** | ID listed by Weather Underground (in url)
 **date_original** | The date pulled by the scraper
-**precip_sum** | The monthly precipitation, either rain or snow, in millimeters
+**precip_sum** | The monthly precipitation, either rain or snow, *in millimeters*
 **year** | year extracted from date_original
 **month** | month extracted from date_original
 **lat** | latitude (some more precise than others)
