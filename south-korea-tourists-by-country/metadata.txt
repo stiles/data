@@ -1,0 +1,15 @@
+<Statistics metadata>
+
+¡Û Table ID : DT_AGE_ENT_AGG_MONTH
+
+¡Û Table Name : Visitor Arrivals-by age / by nationality
+
+¡Û Term : null
+
+¡Û Source : KOSIS(Source : Korea National Tourism Organization), 2018.02.15 15:05
+
+¡Û Table URL : http://kosis.kr/statHtml/statHtml.do?orgId=314&tblId=DT_AGE_ENT_AGG_MONTH&language=en&conn_path=I3
+              * The URL for a statistical table may change in case of the KOSIS revision.
+
+¡Û Unit : persons
+
