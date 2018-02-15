@@ -1,5 +1,5 @@
 # Data Repo
-Data used for my stories in the *Los Angeles Times* and [TheDailyViz.com](http://www.thedailyviz.com). 
+Data used for [my stories](http://thedailyviz.com/matt-stiles-los-angeles-times-stories/) in the *Los Angeles Times* and [TheDailyViz.com](http://www.thedailyviz.com). 
 
 I'm slowly adding dozens of data sets in an effort to archive my work and help others who might be seeking specific records or trying to make sense of the Koreas as a foreigner.
 
