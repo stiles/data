@@ -2,7 +2,7 @@
 
 These data include 275 incidents, known as provocations, by North Korea since 1958. These events includes missile launches, nuclear tests and other provocations, such as rocket engine tests, Demilitarized Zone incursions and firearms exchanges. 
 
-The first dataset, which contains a record for each incident, has five fields:
+The first dataset, which contains a record for each incident, has eight fields:
 
 Field | Description
 ------------ | ------------- 
