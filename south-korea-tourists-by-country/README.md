@@ -11,6 +11,6 @@ Field | Description
 **country** | Country name (see list of 51 below)
 **age** | Age cohorts: 0-20, 21-30, 31-40, 41-50, 51-60, 61+, AllAges
 **month** | Vistor entry month
-**visitors** | Total numnber of visitors from each observation
+**visitors** | Total number of visitors from each observation
 
 **COUNTRIES:** Australia, Austria, Bangladesh, Belgium, Brazil, Bulgaria, Canada, China, Croatia, Denmark, Finland, France, Germany, Greece, Hong Kong, India, Indonesia, Iran, Ireland, Israel, Itary, Japan, Kazakhstan, Malaysia, Mexico, Mongolia, Myanmar, Netherlands, New Zealand, Norway, Pakistan, Philippines, Poland, Portugal, Romania, Russia, Singapore, South Africa Union, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Total, Turkey, Ukraine, United Kingdom, USA, Uzbekistan, Vietnam
