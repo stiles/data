@@ -1,6 +1,6 @@
 # North Korean Military Provocations: 1958-2017
 
-These data includes 275 incidents, known as provocations, by North Korea since 1958. These events includes missile launches, nuclear tests and other provocations, such as rocket engine tests, Demilitarized Zone incursions and firearms exchanges. 
+This data set includes 275 incidents, known as provocations, by North Korea since 1958. These events includes missile launches, nuclear tests and other provocations, such as rocket engine tests, Demilitarized Zone incursions and firearms exchanges. 
 
 The data have five fields:
 
