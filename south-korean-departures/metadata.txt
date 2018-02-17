@@ -1,0 +1,15 @@
+<Statistics metadata>
+
+¡Û Table ID : DT_TRFF_DEP_AGG_MONTH
+
+¡Û Table Name : Departures of Koreans-by means of travel
+
+¡Û Term : null
+
+¡Û Source : KOSIS(Source : Korea National Tourism Organization), 2018.02.18 07:19
+
+¡Û Table URL : http://kosis.kr/statHtml/statHtml.do?orgId=314&tblId=DT_TRFF_DEP_AGG_MONTH&language=en&conn_path=I3
+              * The URL for a statistical table may change in case of the KOSIS revision.
+
+¡Û Unit : persons
+
