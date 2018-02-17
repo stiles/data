@@ -9,7 +9,7 @@ The dataset has 3,142 observations and 22 fields:
 Field | Description
 ------------ | ------------- 
 
-**fips** | Unique id for each county [Federal Information Processing Standards](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards)
+**fips** | Unique id for each county
 **place** | Full name
 **pop** | Total population
 **nonhisp** | Non-Hispanic population
