@@ -11,11 +11,13 @@ Data set | Description
 [north-korea-precipitation](https://github.com/mattstiles/data/tree/master/north-korea-precipitation) | 10,000 monthly precipitation totals at 12 weather stations around North Korea: 2005-2017
 [north-korean-provocations](https://github.com/mattstiles/data/tree/master/north-korean-provocations) | List of provocations by date, type (nuclear, missile, etc.) and description: 1958-2017
 [obama-staff-2009-2016](https://github.com/mattstiles/data/tree/master/obama-staff-2009-2016) | President Obama's staff and their salaries over the years
-[south-korea-foreigners](https://github.com/mattstiles/data/tree/master/south-korea-foreigners) | Foreigner population totals (and rates) at top-level 
+[south-korea-departures](https://github.com/mattstiles/data/tree/master/south-korea-departures) | South Koreans' departures by air or port and year 
+[south-korea-foreigners](https://github.com/mattstiles/data/tree/master/south-korea-foreigners) | Foreigner population totals (and rates) at top-level
+[south-korea-foreigner-purchases](https://github.com/mattstiles/data/tree/master/south-korea-foreigner-purchases) | What visiting foreigners buy in South Korea, by year and select countries 
 [south-korea-tourists-by-country](https://github.com/mattstiles/data/tree/master/south-korea-tourists-by-country) | Tourist visit totals by month, country and age: 2003-2017
 [south-korea-population](https://github.com/mattstiles/data/tree/master/south-korea-population) | Population totals at all categories of geography
 [trump-staff-2017](https://github.com/mattstiles/data/tree/master/trump-staff-2017) | President Trump's staff in summer 2017
-
+[usa-majority-minority-counties](https://github.com/mattstiles/data/tree/master/usa-majority-minority-counties) | U.S.A. counties with race/ethnicity totals and flags for places in which the non-Hispanic white population isn't the majority
 
 
 *Suggestions?? Questions?? Corrections??*
