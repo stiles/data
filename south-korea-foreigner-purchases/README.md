@@ -4,8 +4,6 @@ This dataset has records on the types of purchases made by foreign travellers to
 
 The dataset has more than 4,200 observations and five fields: 
 
-"id","classification","year","type","pct"
-
 Field | Description
 ------------ | ------------- 
 **id** | Unique ID
@@ -15,4 +13,4 @@ Field | Description
 **pct** | Percentage who purchased a product
 
 
-**Countries in the "classification" field:** *Australia, Canada, China, France, Germany, Hongkong, India, Japan, Malaysia, Middleeast, Others, Russianfed., Singapore, Taiwan, Thailand, U.K., U.S.A., Whole*
+**Countries in the "classification" field (as spelled by the agency):** *Australia, Canada, China, France, Germany, Hongkong, India, Japan, Malaysia, Middleeast, Others, Russianfed., Singapore, Taiwan, Thailand, U.K., U.S.A., Whole*
