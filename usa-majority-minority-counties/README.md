@@ -1,6 +1,6 @@
 # Majority-Minority Counties in the United States: 2016
 
-This dataset list the racial and ethnic totals and percentages in all 3,142 counties and county equivalents in the United States. It also has fields identifying those counties that are "majority-minority," or the 367 counties in which the non-Hispanic white population isn't the majority. 
+This dataset lists the racial and ethnic totals and percentages in all 3,142 counties and county equivalents in the United States. It also has fields identifying those counties that are "majority-minority," or the 367 counties in which the non-Hispanic white population isn't the majority. 
 
 The data were downloaded from the U.S. Census Bureau's five-year American Community Survey released in 2016.  
 
