@@ -28,3 +28,5 @@ Field | Description
 **total** | Annual provocation count
 
 **SOURCE:** This data is compiled by [Beyond Parallel](https://beyondparallel.csis.org/about/), a project from the [Center for Strategic & International Studies](http://csis.org) in Washington, D.C.
+
+**VISUALIZATION EXAMPLES:** [The Daily Viz | North Korea](http://thedailyviz.com/category/north-korea/)
