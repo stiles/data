@@ -1,4 +1,4 @@
-# South Korean Visitors: 2003-2017
+ # South Korean Visitors: 2003-2017
 
 
 This dataset compiles 15 years of records on the number of vistors, by age and country, to South Korea. The data include monthly observations from each country and age cohort, and have been [melted](https://www.statmethods.net/management/reshape.html) from the [original wide format](http://kosis.kr/statHtml/statHtml.do?orgId=314&tblId=DT_AGE_ENT_AGG_MONTH&conn_path=I2&language=en) released by the [Korean Statistical Information Service](http://kosis.kr/eng).
