@@ -8,7 +8,7 @@ The dataset has 4,712 tweets and nine fields.
 
 Field | Description
 ------------ | ------------- 
-**id** | Twitter ID (i.e. https://twitter.com/{{ user }}/status/{{ id }})
+**id** | Twitter ID (i.e. *https://twitter.com/{{ user }}/status/{{ id }}*)
 **date** | Date of tweet
 **time** | Time of tweet
 **timezone** | Timezone, which is UTC (you might adjust the times for Central during the conference itself)
