@@ -1,10 +1,10 @@
 # NICAR#18 Twitter Dump
 
-This dataset lists more than 7,700 tweets featuring the [#NICAR18](https://twitter.com/search?q=%23NICAR18&src=typd) hashtag, which identified messages about IRE's annual [CAR Conference](https://ire.org/conferences/nicar18/).   
+This dataset lists more than 4,000 tweets featuring the [#NICAR18](https://twitter.com/search?q=%23NICAR18&src=typd) hashtag, which identified messages about IRE's annual [CAR Conference](https://ire.org/conferences/nicar18/).   
 
 The data were scraped from Twitter using the [tweep](https://github.com/haccer/tweep) Python library. They range from Jan. 1 to March 14. 
 
-The dataset has 7,707 tweets and nine fields. 
+The dataset has 4,266 tweets and nine fields. 
 
 Field | Description
 ------------ | ------------- 
