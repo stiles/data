@@ -1,4 +1,4 @@
-# NICAR#18 Twitter Dump
+# #NICAR18 Twitter Dump
 
 This dataset lists more than 4,000 tweets featuring the [#NICAR18](https://twitter.com/search?q=%23NICAR18&src=typd) hashtag, which identified messages about IRE's annual [CAR Conference](https://ire.org/conferences/nicar18/).   
 
