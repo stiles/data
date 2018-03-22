@@ -11,9 +11,10 @@ Field | Description
 **id** | Twitter ID (i.e. *https://twitter.com/{{ user }}/status/{{ id }}*)
 **date** | Date of tweet
 **time** | Time of tweet
-**timezone** | Timezone, which is UTC (you should adjust the times for Central during the conference itself, and remember that CST changed to CDT at 2 a.m. on Sunday, March 11)
+**timezone** | UTC
 **user** | Username
 **text** | Tweet text
 **replies** | Number of replies
 **retweets** | Number of retweets
 **likes** | Number of likes
+**hashtags** | List of hashtags used in tweet
