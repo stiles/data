@@ -2,9 +2,9 @@
 
 This dataset lists more than 59,000 tweets featuring the [#deletefacebook](https://twitter.com/search?q=%23deletefacebook&src=typd) hashtag.   
 
-The data were scraped from Twitter using the [tweep](https://github.com/haccer/tweep) Python library. They range from Feb. 28 to March 21. 
+The data were scraped from Twitter using the [tweep](https://github.com/haccer/tweep) Python library. They range from midnight (UTC) Feb. 28 to 12:07 a.m. (UTC) March 24. 
 
-The dataset has 59,213 tweets and nine fields. 
+The dataset has 108,608 tweets and nine fields. 
 
 Field | Description
 ------------ | ------------- 
