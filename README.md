@@ -5,6 +5,8 @@ I'm slowly adding dozens of data sets in an effort to archive my work and help o
 
 Data set | Description
 ------------ | -------------
+[#deletefacebook](https://github.com/mattstiles/data/tree/master/%23detetefacebook) | More than 100,000 tweets featuring the #deletefacebook hashtag.
+[#nicar18](https://github.com/mattstiles/data/tree/master/%23nicar18) | More than 4,000 tweets featuring the #NICAR18 hashtag, which identified messages about IRE's annual CAR Conference.
 [dmz](https://github.com/mattstiles/data/tree/master/dmz) | GIS data plotting the South Korea-North Korea border in various formats
 [koreas-population-projections](https://github.com/mattstiles/data/tree/master/koreas-population-projections) | Historic and future population figures for South Korea and North Korea
 [north-korea-geography](https://github.com/mattstiles/data/tree/master/north-korea-geography) | GIS data detailing boundaries for North Korean counties, states and rivers and lakes
