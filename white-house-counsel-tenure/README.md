@@ -14,3 +14,5 @@ Field | Description
 **president** | President the counsel served
 **party** | President's party
 **id** | Unique ID
+
+*The average tenure is 638 days*
