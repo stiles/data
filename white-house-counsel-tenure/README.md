@@ -15,4 +15,4 @@ Field | Description
 **party** | President's party
 **id** | Unique ID
 
-*The average tenure is 638 days*
+*The average tenure is 638 days.*
