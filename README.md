@@ -20,6 +20,8 @@ Data set | Description
 [south-korea-population](https://github.com/mattstiles/data/tree/master/south-korea-population) | Population totals at all categories of geography
 [trump-staff-2017](https://github.com/mattstiles/data/tree/master/trump-staff-2017) | President Trump's staff in summer 2017
 [usa-majority-minority-counties](https://github.com/mattstiles/data/tree/master/usa-majority-minority-counties) | U.S.A. counties with race/ethnicity totals and flags for places in which the non-Hispanic white population isn't the majority
+White House counsel tenures
+[white-house-counsel-tenure](https://github.com/mattstiles/data/tree/master/white-house-counsel-tenure) | This dataset lists the tenures of White House counsel since President Roosevelt, according to [wikipedia](https://en.wikipedia.org/wiki/White_House_Counsel).
 
 
 *Suggestions?? Questions?? Corrections??*
