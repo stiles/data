@@ -2,7 +2,7 @@
 
 This dataset lists the tenures of White House counsel since President Roosevelt, according to [wikipedia](https://en.wikipedia.org/wiki/White_House_Counsel).   
 
-The dataset contains start and end dates for the 38 people who've held the job. There are eight fields.  
+The dataset contains start and end dates for the 38 people who've held the job. There are eight fields:  
 
 Field | Description
 ------------ | ------------- 
