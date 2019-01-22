@@ -9,7 +9,7 @@ Data set | Description
 [#nicar18](https://github.com/mattstiles/data/tree/master/%23nicar18) | More than 4,000 tweets featuring the #NICAR18 hashtag, which identified messages about IRE's annual CAR Conference.
 [dmz](https://github.com/mattstiles/data/tree/master/dmz) | GIS data plotting the South Korea-North Korea border in various formats
 [koreas-population-projections](https://github.com/mattstiles/data/tree/master/koreas-population-projections) | Historic and future population figures for South Korea and North Korea
-[Los Angeles County geography](https://github.com/stiles/data/blob/master/la-county-geography/) | Boundaries for five districts, each with roughly 2 million residents, in geojson format.
+[Los Angeles County geography](https://github.com/stiles/data/blob/master/la-county-geography/) | GIS files for Los Angeles County.
 [north-korea-geography](https://github.com/mattstiles/data/tree/master/north-korea-geography) | GIS data detailing boundaries for North Korean counties, states and rivers and lakes
 [north-korea-precipitation](https://github.com/mattstiles/data/tree/master/north-korea-precipitation) | 10,000 monthly precipitation totals at 12 weather stations around North Korea: 2005-2017
 [north-korean-provocations](https://github.com/mattstiles/data/tree/master/north-korean-provocations) | List of provocations by date, type (nuclear, missile, etc.) and description: 1958-2017
