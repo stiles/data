@@ -1,4 +1,4 @@
-# Los Angeles County Geography
+# Los Angeles County geography
 
 Data set | Description
 ------------ | -------------
