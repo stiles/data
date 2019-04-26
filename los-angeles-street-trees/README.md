@@ -1,6 +1,6 @@
 # Los Angeles area street trees
 
-A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data collection of trees planted within municipal right of way around Los Angeles County, in geojson and csv formats. This repo contains **34** cities and **1.46 million** records. More cities and better [documentation](https://github.com/stiles/data/issues/5) coming soon. Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
+A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data collection of trees planted within municipal right of way around Los Angeles County, in geojson and csv formats. This repo contains **35** cities and **1.51 million** records. More cities and better [documentation](https://github.com/stiles/data/issues/5) coming soon. Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 
 ## Municpalities collected
 
