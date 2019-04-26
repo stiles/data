@@ -1,6 +1,6 @@
 # Los Angeles area street trees
 
-A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data collection of trees planted within municipal right of way around Los Angeles County, in geojson and csv formats. This repo contains **32** cities and **1.44 million** records. More cities and better [documentation](https://github.com/stiles/data/issues/5) coming soon. Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
+A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data collection of trees planted within municipal right of way around Los Angeles County, in geojson and csv formats. This repo contains **33** cities and **1.44 million** records. More cities and better [documentation](https://github.com/stiles/data/issues/5) coming soon. Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 
 ## Municpalities collected
 
@@ -13,6 +13,7 @@ Municipality | Records | Population
 [Beverly Hills](https://github.com/stiles/data/tree/master/los-angeles-street-trees/beverly-hills) | 29,000 | 34,109
 [Burbank](https://github.com/stiles/data/tree/master/los-angeles-street-trees/burbank) | 37,000 | 103,340
 [Carson](https://github.com/stiles/data/tree/master/los-angeles-street-trees/carson) | 22,500 | 91,714
+[Cerritos](https://github.com/stiles/data/tree/master/los-angeles-street-trees/cerritos) | 31,300 | 49,041
 [Covina](https://github.com/stiles/data/tree/master/los-angeles-street-trees/covina) | 14,600 | 47,796
 [Culver City](https://github.com/stiles/data/tree/master/los-angeles-street-trees/culver-city) | 16,900 | 38,883
 [Downey](https://github.com/stiles/data/tree/master/los-angeles-street-trees/downey) | 18,500 | 111,772
