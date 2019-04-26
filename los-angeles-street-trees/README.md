@@ -34,7 +34,7 @@ Municipality | Records | Population
 [West Covina](https://github.com/stiles/data/tree/master/los-angeles-street-trees/west-covina) | 33,000 | 106,098
 [West Hollywood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/west-hollywood) | 9,000 | 34,399
 [Whittier](https://github.com/stiles/data/tree/master/los-angeles-street-trees/whittier) | 27,800 | 85,331
- | 
+
 ## Sources
 
-Records collected from municipalities the *Los Angeles Times* via the California Public Information Act or official open-data portals. 
+Records collected from municipalities the *Los Angeles Times* via the [California Public Records Act](https://en.wikipedia.org/wiki/California_Public_Records_Act) or official open-data portals. 
