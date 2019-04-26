@@ -5,7 +5,7 @@ A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data
 ## Municpalities collected
 
 **Municipality &darr;** | Tree count | Population
----------------- | ---------- | ----------
+---------------- | ----------: | ----------:
 [Agoura Hills](https://github.com/stiles/data/tree/master/los-angeles-street-trees/agoura-hills) | 15,600 | 56,364
 [Arcadia](https://github.com/stiles/data/tree/master/los-angeles-street-trees/arcadia) | 5,100 | 20,330
 [Bell Gardens](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bell-gardens) | 7,000 | 42,072
@@ -42,7 +42,7 @@ A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data
 [Whittier](https://github.com/stiles/data/tree/master/los-angeles-street-trees/whittier) | 27,800 | 85,331
 
 Municipality | **Tree count &darr;** | Population
------------- | -------------- | ----------
+------------ | --------------: | ----------:
 [Los Angeles](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles) | 545,000 | 3,792,621
 [Long Beach](https://github.com/stiles/data/tree/master/los-angeles-street-trees/long-beach) | 140,000 | 462,257
 [Santa Clarita](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-clarita) | 112,000 | 210,888
