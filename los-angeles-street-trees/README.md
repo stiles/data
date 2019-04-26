@@ -1,6 +1,6 @@
 # Los Angeles area street trees
 
-A growing spatial data collection of trees planted within municipal right of way around Los Angeles County, in geojson and csv formats. Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com)
+A growing and [incomplete](https://github.com/stiles/data/issues) spatial data collection of trees planted within municipal right of way around Los Angeles County, in geojson and csv formats. Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com). More data sets and documentation coming soon. 
 
 ## Municpalities collected
 
