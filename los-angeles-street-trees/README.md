@@ -22,6 +22,7 @@ Municipality | Records | Population
 [Long Beach](https://github.com/stiles/data/tree/master/los-angeles-street-trees/long-beach) | 140,000 | 462,257
 [Los Angeles](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles) | 545,000 | 3,792,621
 [Los Angeles County](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles-county) | 99,000 | 10,100,000
+[Malibu](https://github.com/stiles/data/tree/master/los-angeles-street-trees/malibu) | 7,400 | 12,645
 [Norwalk](https://github.com/stiles/data/tree/master/los-angeles-street-trees/norwalk) | 21,400 | 105,549
 [Palmdale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/palmdale) | 19,000 | 152,750
 [Pasadena](https://github.com/stiles/data/tree/master/los-angeles-street-trees/pasadena) | 71,000 | 137,122
