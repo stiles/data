@@ -9,6 +9,7 @@ Municipality | Records | Population
 [Agoura Hills](https://github.com/stiles/data/tree/master/los-angeles-street-trees/agoura-hills) | 15,600 | 56,364
 [Arcadia](https://github.com/stiles/data/tree/master/los-angeles-street-trees/arcadia) | 5,100 | 20,330
 [Bell Gardens](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bell-gardens) | 7,000 | 42,072
+[Bellflower](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bellflower) | 8,400 | 76,616
 [Beverly Hills](https://github.com/stiles/data/tree/master/los-angeles-street-trees/beverly-hills) | 29,000 | 34,109
 [Burbank](https://github.com/stiles/data/tree/master/los-angeles-street-trees/burbank) | 37,000 | 103,340
 [Carson](https://github.com/stiles/data/tree/master/los-angeles-street-trees/carson) | 22,500 | 91,714
