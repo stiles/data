@@ -22,8 +22,8 @@ A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data
 [El Segundo](https://github.com/stiles/data/tree/master/los-angeles-street-trees/el-segundo) | 6,400 | 16,654
 [Glendale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/glendale) | 56,000 | 203,054
 [Inglewood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/inglewood) | 21,800 | 109,673
-<!-- [Lawndale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lawndale) | 7400 | 32769
- -->[Long Beach](https://github.com/stiles/data/tree/master/los-angeles-street-trees/long-beach) | 140,000 | 462,257
+[Lawndale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lawndale) | 7400 | 32769
+[Long Beach](https://github.com/stiles/data/tree/master/los-angeles-street-trees/long-beach) | 140,000 | 462,257
 [Los Angeles](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles) | 545,000 | 3,792,621
 [Los Angeles County](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles-county) | 99,000 | 10,100,000
 [Malibu](https://github.com/stiles/data/tree/master/los-angeles-street-trees/malibu) | 7,400 | 12,645
@@ -77,8 +77,8 @@ Municipality | **Tree count &darr;** | Population
 [Bellflower](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bellflower) | 8,400 | 76,616
 [Duarte](https://github.com/stiles/data/tree/master/los-angeles-street-trees/duarte) | 7,900 | 21,321
 [Malibu](https://github.com/stiles/data/tree/master/los-angeles-street-trees/malibu) | 7,400 | 12,645
-<!-- [Lawndale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lawndale) | 7400 | 32769
- -->[Bell Gardens](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bell-gardens) | 7,000 | 42,072
+[Lawndale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lawndale) | 7400 | 32769
+[Bell Gardens](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bell-gardens) | 7,000 | 42,072
 [El Segundo](https://github.com/stiles/data/tree/master/los-angeles-street-trees/el-segundo) | 6,400 | 16,654
 [Agoura Hills](https://github.com/stiles/data/tree/master/los-angeles-street-trees/agoura-hills) | 5,100 | 20,330
 
