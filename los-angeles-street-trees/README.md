@@ -1,13 +1,13 @@
 # Los Angeles area street trees
 
-A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data collection of trees planted within municipal right of way around Los Angeles County, in geojson and csv formats. This repo contains **34** cities and **1.54 million** records. More cities and better [documentation](https://github.com/stiles/data/issues/5) coming soon. Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
+A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data collection of trees planted within municipal right of way around Los Angeles County, in geojson and csv formats. This repo contains **36** cities and **1.56 million** records. More cities and better [documentation](https://github.com/stiles/data/issues/5) coming soon. Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 
 ## Municpalities collected
 
 **Municipality &darr;** | Tree count | Population
 ---------------- | ----------: | ----------:
-[Agoura Hills](https://github.com/stiles/data/tree/master/los-angeles-street-trees/agoura-hills) | 15,600 | 56,364
-[Arcadia](https://github.com/stiles/data/tree/master/los-angeles-street-trees/arcadia) | 5,100 | 20,330
+[Agoura Hills](https://github.com/stiles/data/tree/master/los-angeles-street-trees/agoura-hills) | 5,100 | 20,330
+[Arcadia](https://github.com/stiles/data/tree/master/los-angeles-street-trees/arcadia) | 15,600 | 56,364
 [Bell Gardens](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bell-gardens) | 7,000 | 42,072
 [Bellflower](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bellflower) | 8,400 | 76,616
 [Beverly Hills](https://github.com/stiles/data/tree/master/los-angeles-street-trees/beverly-hills) | 29,000 | 34,109
@@ -22,7 +22,8 @@ A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data
 [El Segundo](https://github.com/stiles/data/tree/master/los-angeles-street-trees/el-segundo) | 6,400 | 16,654
 [Glendale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/glendale) | 56,000 | 203,054
 [Inglewood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/inglewood) | 21,800 | 109,673
-[Long Beach](https://github.com/stiles/data/tree/master/los-angeles-street-trees/long-beach) | 140,000 | 462,257
+<!-- [Lawndale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lawndale) | 7400 | 32769
+ -->[Long Beach](https://github.com/stiles/data/tree/master/los-angeles-street-trees/long-beach) | 140,000 | 462,257
 [Los Angeles](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles) | 545,000 | 3,792,621
 [Los Angeles County](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles-county) | 99,000 | 10,100,000
 [Malibu](https://github.com/stiles/data/tree/master/los-angeles-street-trees/malibu) | 7,400 | 12,645
@@ -36,6 +37,7 @@ A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data
 [Santa Fe Springs](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-fe-springs) | 8,700 | 16,223
 [Santa Monica](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-monica) | 32,000 | 89,736
 [South Gate](https://github.com/stiles/data/tree/master/los-angeles-street-trees/south-gate) | 20,900 | 94,396
+[South Pasadena](https://github.com/stiles/data/tree/master/los-angeles-street-trees/south-pasadena) | 11400 | 25619
 [Temple City](https://github.com/stiles/data/tree/master/los-angeles-street-trees/temple-city) | 9,000 | 35,558
 [West Covina](https://github.com/stiles/data/tree/master/los-angeles-street-trees/west-covina) | 33,000 | 106,098
 [West Hollywood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/west-hollywood) | 9,000 | 34,399
@@ -67,14 +69,16 @@ Municipality | **Tree count &darr;** | Population
 [Arcadia](https://github.com/stiles/data/tree/master/los-angeles-street-trees/arcadia) | 15,600 | 56,364
 [Covina](https://github.com/stiles/data/tree/master/los-angeles-street-trees/covina) | 14,600 | 47,796
 [Rancho Palos Verdes](https://github.com/stiles/data/tree/master/los-angeles-street-trees/rancho-palos-verdes) | 13,500 | 41,643
+[South Pasadena](https://github.com/stiles/data/tree/master/los-angeles-street-trees/south-pasadena) | 11400 | 25619
 [San Fernando](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-fernando) | 9,500 | 23,645
-[Temple City](https://github.com/stiles/data/tree/master/los-angeles-street-trees/temple-city) | 9,000 | 35,558
 [West Hollywood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/west-hollywood) | 9,000 | 34,399
+[Temple City](https://github.com/stiles/data/tree/master/los-angeles-street-trees/temple-city) | 9,000 | 35,558
 [Santa Fe Springs](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-fe-springs) | 8,700 | 16,223
 [Bellflower](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bellflower) | 8,400 | 76,616
 [Duarte](https://github.com/stiles/data/tree/master/los-angeles-street-trees/duarte) | 7,900 | 21,321
 [Malibu](https://github.com/stiles/data/tree/master/los-angeles-street-trees/malibu) | 7,400 | 12,645
-[Bell Gardens](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bell-gardens) | 7,000 | 42,072
+<!-- [Lawndale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lawndale) | 7400 | 32769
+ -->[Bell Gardens](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bell-gardens) | 7,000 | 42,072
 [El Segundo](https://github.com/stiles/data/tree/master/los-angeles-street-trees/el-segundo) | 6,400 | 16,654
 [Agoura Hills](https://github.com/stiles/data/tree/master/los-angeles-street-trees/agoura-hills) | 5,100 | 20,330
 
