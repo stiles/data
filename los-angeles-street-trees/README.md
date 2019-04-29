@@ -1,8 +1,8 @@
-# Los Angeles area street trees
+# Los Angeles County street trees
 
 A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data collection of trees planted within municipal right of way around Los Angeles County, in geojson and csv formats. This repo contains **36** cities and **1.56 million** records. More cities and better [documentation](https://github.com/stiles/data/issues/5) coming soon. Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 
-## Municpalities collected
+## Municpalities collected, by name
 
 **Municipality &darr;** | Tree count | Population
 ---------------- | ----------: | ----------:
@@ -42,6 +42,8 @@ A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data
 [West Covina](https://github.com/stiles/data/tree/master/los-angeles-street-trees/west-covina) | 33,000 | 106,098
 [West Hollywood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/west-hollywood) | 9,000 | 34,399
 [Whittier](https://github.com/stiles/data/tree/master/los-angeles-street-trees/whittier) | 27,800 | 85,331
+
+## Municpalities collected, by tree count
 
 Municipality | **Tree count &darr;** | Population
 ------------ | --------------: | ----------:
