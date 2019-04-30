@@ -38,6 +38,7 @@ Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 [Pomona](https://github.com/stiles/data/tree/master/los-angeles-street-trees/pomona) | 50,000 | 149,058
 [Rancho Palos Verdes](https://github.com/stiles/data/tree/master/los-angeles-street-trees/rancho-palos-verdes) | 13,500 | 41,643
 [San Fernando](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-fernando) | 9,500 | 23,645
+[San Gabriel](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-gabriel) | 9900 | 39718
 [Santa Clarita](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-clarita) | 112,000 | 210,888
 [Santa Fe Springs](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-fe-springs) | 8,700 | 16,223
 [Santa Monica](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-monica) | 32,000 | 89,736
@@ -77,6 +78,7 @@ Municipality | **Tree count &darr;** | Population
 [Covina](https://github.com/stiles/data/tree/master/los-angeles-street-trees/covina) | 14,600 | 47,796
 [Rancho Palos Verdes](https://github.com/stiles/data/tree/master/los-angeles-street-trees/rancho-palos-verdes) | 13,500 | 41,643
 [South Pasadena](https://github.com/stiles/data/tree/master/los-angeles-street-trees/south-pasadena) | 11,400 | 25,619
+[San Gabriel](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-gabriel) | 9900 | 39718
 [San Fernando](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-fernando) | 9,500 | 23,645
 [Temple City](https://github.com/stiles/data/tree/master/los-angeles-street-trees/temple-city) | 9,000 | 35,558
 [West Hollywood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/west-hollywood) | 9,000 | 34,399
