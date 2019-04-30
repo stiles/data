@@ -2,7 +2,7 @@
 
 A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data collection of trees planted within municipal right of way around Los Angeles County, in geojson and .shp formats. (Some larger cities are stored here as .csv files because of Github's size restrictions.)
 
-This repo contains **43** cities and **1.64 million** records. More cities and better [documentation](https://github.com/stiles/data/issues/5) coming soon. 
+This repo contains **44** cities and **1.65 million** records. More cities and better [documentation](https://github.com/stiles/data/issues/5) coming soon. 
 
 Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 
@@ -41,6 +41,7 @@ Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 [Pasadena](https://github.com/stiles/data/tree/master/los-angeles-street-trees/pasadena) | 71,000 | 137,122
 [Pomona](https://github.com/stiles/data/tree/master/los-angeles-street-trees/pomona) | 50,000 | 149,058
 [Rancho Palos Verdes](https://github.com/stiles/data/tree/master/los-angeles-street-trees/rancho-palos-verdes) | 13,500 | 41,643
+[Redondo Beach](https://github.com/stiles/data/tree/master/los-angeles-street-trees/redondo-beach) | 13,000 | 66,748
 [San Dimas](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-dimas) | 10400 | 33371
 [San Fernando](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-fernando) | 9,500 | 23,645
 [San Gabriel](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-gabriel) | 9900 | 39718
@@ -83,6 +84,7 @@ Municipality | **Tree count &darr;** | Population
 [Arcadia](https://github.com/stiles/data/tree/master/los-angeles-street-trees/arcadia) | 15,600 | 56,364
 [Covina](https://github.com/stiles/data/tree/master/los-angeles-street-trees/covina) | 14,600 | 47,796
 [Rancho Palos Verdes](https://github.com/stiles/data/tree/master/los-angeles-street-trees/rancho-palos-verdes) | 13,500 | 41,643
+[Redondo Beach](https://github.com/stiles/data/tree/master/los-angeles-street-trees/redondo-beach) | 13,000 | 66,748
 [Glendora](https://github.com/stiles/data/tree/master/los-angeles-street-trees/glendora) | 12,600 | 50,073
 [South Pasadena](https://github.com/stiles/data/tree/master/los-angeles-street-trees/south-pasadena) | 11,400 | 25,619
 [El Monte](https://github.com/stiles/data/tree/master/los-angeles-street-trees/el-monte) | 11,000 | 113,475
