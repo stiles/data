@@ -28,7 +28,7 @@ Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 [Inglewood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/inglewood) | 21,800 | 109,673
 [Lawndale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lawndale) | 7,400 | 32,769
 [Long Beach](https://github.com/stiles/data/tree/master/los-angeles-street-trees/long-beach) | 140,000 | 462,257
-[Los Angeles](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles) | 545,000 | 3,792,621
+[Los Angeles City](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles-city) | 545,000 | 3,792,621
 [Los Angeles County](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles-county) | 99,000 | 10,100,000
 [Malibu](https://github.com/stiles/data/tree/master/los-angeles-street-trees/malibu) | 7,400 | 12,645
 [Norwalk](https://github.com/stiles/data/tree/master/los-angeles-street-trees/norwalk) | 21,400 | 105,549
@@ -52,7 +52,7 @@ Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 
 Municipality | **Tree count &darr;** | Population
 ------------ | --------------: | ----------:
-[Los Angeles](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles) | 545,000 | 3,792,621
+[Los Angeles City](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles-city) | 545,000 | 3,792,621
 [Long Beach](https://github.com/stiles/data/tree/master/los-angeles-street-trees/long-beach) | 140,000 | 462,257
 [Santa Clarita](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-clarita) | 112,000 | 210,888
 [Los Angeles County](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles-county) | 99,000 | 10,100,000
