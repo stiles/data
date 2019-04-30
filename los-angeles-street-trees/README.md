@@ -2,7 +2,7 @@
 
 A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data collection of trees planted within municipal right of way around Los Angeles County, in geojson and .shp formats. (Some larger cities are stored here as .csv files because of Github's size restrictions.)
 
-This repo contains **41** cities and **1.62 million** records. More cities and better [documentation](https://github.com/stiles/data/issues/5) coming soon. 
+This repo contains **43** cities and **1.64 million** records. More cities and better [documentation](https://github.com/stiles/data/issues/5) coming soon. 
 
 Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 
@@ -23,12 +23,14 @@ Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 [Diamond Bar](https://github.com/stiles/data/tree/master/los-angeles-street-trees/diamond-bar) | 20,100 | 55,544
 [Downey](https://github.com/stiles/data/tree/master/los-angeles-street-trees/downey) | 18,500 | 111,772
 [Duarte](https://github.com/stiles/data/tree/master/los-angeles-street-trees/duarte) | 7,900 | 21,321
+[El Monte](https://github.com/stiles/data/tree/master/los-angeles-street-trees/el-monte) | 11,000 | 113,475
 [El Segundo](https://github.com/stiles/data/tree/master/los-angeles-street-trees/el-segundo) | 6,400 | 16,654
 [Glendale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/glendale) | 56,000 | 203,054
 [Glendora](https://github.com/stiles/data/tree/master/los-angeles-street-trees/glendora) | 12,600 | 50,073
 [Inglewood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/inglewood) | 21,800 | 109,673
 [La Mirada](https://github.com/stiles/data/tree/master/los-angeles-street-trees/la-mirada) | 17,000 | 48,527
 [Lawndale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lawndale) | 7,400 | 32,769
+[Lomita](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lomita) | 3,000 | 20,256
 [Long Beach](https://github.com/stiles/data/tree/master/los-angeles-street-trees/long-beach) | 140,000 | 462,257
 [Los Angeles City](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles-city) | 545,000 | 3,792,621
 [Los Angeles County](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles-county) | 99,000 | 10,100,000
@@ -83,6 +85,7 @@ Municipality | **Tree count &darr;** | Population
 [Rancho Palos Verdes](https://github.com/stiles/data/tree/master/los-angeles-street-trees/rancho-palos-verdes) | 13,500 | 41,643
 [Glendora](https://github.com/stiles/data/tree/master/los-angeles-street-trees/glendora) | 12,600 | 50,073
 [South Pasadena](https://github.com/stiles/data/tree/master/los-angeles-street-trees/south-pasadena) | 11,400 | 25,619
+[El Monte](https://github.com/stiles/data/tree/master/los-angeles-street-trees/el-monte) | 11,000 | 113,475
 [San Dimas](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-dimas) | 10400 | 33371
 [San Gabriel](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-gabriel) | 9900 | 39718
 [San Fernando](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-fernando) | 9,500 | 23,645
@@ -97,6 +100,7 @@ Municipality | **Tree count &darr;** | Population
 [Bell Gardens](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bell-gardens) | 7,000 | 42,072
 [El Segundo](https://github.com/stiles/data/tree/master/los-angeles-street-trees/el-segundo) | 6,400 | 16,654
 [Agoura Hills](https://github.com/stiles/data/tree/master/los-angeles-street-trees/agoura-hills) | 5,100 | 20,330
+[Lomita](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lomita) | 3,000 | 20,256
 
 ## Sources
 
