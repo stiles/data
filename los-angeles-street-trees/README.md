@@ -2,7 +2,7 @@
 
 A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data collection of trees planted within municipal right of way around Los Angeles County, in geojson and .shp formats. (Some larger cities are stored here as .csv files because of Github's size restrictions.)
 
-This repo contains **37** cities and **1.57 million** records. More cities and better [documentation](https://github.com/stiles/data/issues/5) coming soon. 
+This repo contains **38** cities and **1.58 million** records. More cities and better [documentation](https://github.com/stiles/data/issues/5) coming soon. 
 
 Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 
