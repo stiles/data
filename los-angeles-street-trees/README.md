@@ -22,14 +22,14 @@ A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data
 [El Segundo](https://github.com/stiles/data/tree/master/los-angeles-street-trees/el-segundo) | 6,400 | 16,654
 [Glendale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/glendale) | 56,000 | 203,054
 [Inglewood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/inglewood) | 21,800 | 109,673
-[Lawndale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lawndale) | 7400 | 32769
+[Lawndale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lawndale) | 7,400 | 32,769
 [Long Beach](https://github.com/stiles/data/tree/master/los-angeles-street-trees/long-beach) | 140,000 | 462,257
 [Los Angeles](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles) | 545,000 | 3,792,621
 [Los Angeles County](https://github.com/stiles/data/tree/master/los-angeles-street-trees/los-angeles-county) | 99,000 | 10,100,000
 [Malibu](https://github.com/stiles/data/tree/master/los-angeles-street-trees/malibu) | 7,400 | 12,645
 [Norwalk](https://github.com/stiles/data/tree/master/los-angeles-street-trees/norwalk) | 21,400 | 105,549
 [Palmdale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/palmdale) | 19,000 | 152,750
-[Paramount](https://github.com/stiles/data/tree/master/los-angeles-street-trees/paramount) | 7800 | 54098
+[Paramount](https://github.com/stiles/data/tree/master/los-angeles-street-trees/paramount) | 7,800 | 54,098
 [Pasadena](https://github.com/stiles/data/tree/master/los-angeles-street-trees/pasadena) | 71,000 | 137,122
 [Pomona](https://github.com/stiles/data/tree/master/los-angeles-street-trees/pomona) | 50,000 | 149,058
 [Rancho Palos Verdes](https://github.com/stiles/data/tree/master/los-angeles-street-trees/rancho-palos-verdes) | 13,500 | 41,643
@@ -38,7 +38,7 @@ A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data
 [Santa Fe Springs](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-fe-springs) | 8,700 | 16,223
 [Santa Monica](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-monica) | 32,000 | 89,736
 [South Gate](https://github.com/stiles/data/tree/master/los-angeles-street-trees/south-gate) | 20,900 | 94,396
-[South Pasadena](https://github.com/stiles/data/tree/master/los-angeles-street-trees/south-pasadena) | 11400 | 25619
+[South Pasadena](https://github.com/stiles/data/tree/master/los-angeles-street-trees/south-pasadena) | 11,400 | 25,619
 [Temple City](https://github.com/stiles/data/tree/master/los-angeles-street-trees/temple-city) | 9,000 | 35,558
 [West Covina](https://github.com/stiles/data/tree/master/los-angeles-street-trees/west-covina) | 33,000 | 106,098
 [West Hollywood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/west-hollywood) | 9,000 | 34,399
@@ -72,15 +72,15 @@ Municipality | **Tree count &darr;** | Population
 [Arcadia](https://github.com/stiles/data/tree/master/los-angeles-street-trees/arcadia) | 15,600 | 56,364
 [Covina](https://github.com/stiles/data/tree/master/los-angeles-street-trees/covina) | 14,600 | 47,796
 [Rancho Palos Verdes](https://github.com/stiles/data/tree/master/los-angeles-street-trees/rancho-palos-verdes) | 13,500 | 41,643
-[South Pasadena](https://github.com/stiles/data/tree/master/los-angeles-street-trees/south-pasadena) | 11400 | 25619
+[South Pasadena](https://github.com/stiles/data/tree/master/los-angeles-street-trees/south-pasadena) | 11,400 | 25,619
 [San Fernando](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-fernando) | 9,500 | 23,645
 [Temple City](https://github.com/stiles/data/tree/master/los-angeles-street-trees/temple-city) | 9,000 | 35,558
 [West Hollywood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/west-hollywood) | 9,000 | 34,399
 [Santa Fe Springs](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-fe-springs) | 8,700 | 16,223
 [Bellflower](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bellflower) | 8,400 | 76,616
 [Duarte](https://github.com/stiles/data/tree/master/los-angeles-street-trees/duarte) | 7,900 | 21,321
-[Paramount](https://github.com/stiles/data/tree/master/los-angeles-street-trees/paramount) | 7800 | 54098
-[Lawndale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lawndale) | 7400 | 32769
+[Paramount](https://github.com/stiles/data/tree/master/los-angeles-street-trees/paramount) | 7,800 | 54,098
+[Lawndale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lawndale) | 7,400 | 32,769
 [Malibu](https://github.com/stiles/data/tree/master/los-angeles-street-trees/malibu) | 7,400 | 12,645
 [Bell Gardens](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bell-gardens) | 7,000 | 42,072
 [El Segundo](https://github.com/stiles/data/tree/master/los-angeles-street-trees/el-segundo) | 6,400 | 16,654
