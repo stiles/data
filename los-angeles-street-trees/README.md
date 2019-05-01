@@ -4,7 +4,7 @@ A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data
 
 This repository contains **1.65 million** records of individual trees in **44** cities totally 1.16GB. 
 
-Data from more cities are added daily, and better [documentation](https://github.com/stiles/data/issues/5) is coming soon. Questions? Email ```[matt.stiles@latimes.com](mailto:matt.stiles@latimes.com)```.
+Data from more cities are added daily, and better [documentation](https://github.com/stiles/data/issues/5) is coming soon. Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 
 ## Municpalities collected, by name
 
