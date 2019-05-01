@@ -4,7 +4,9 @@ Detailed demographics and voter/redistricting information in geographic formats 
 
 Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 
-## ```los-angeles-county-tracts-demographics``` table metadata
+## Metadata: Demographics
+
+```los-angeles-county-tracts-demographics``` 
 
 **FIELDNAME** | TYPE | DEFINITION
 ---------------- | ---------- | ----------
@@ -63,7 +65,9 @@ Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 **Shape.STArea()** | Double | Shape.STArea()
 **Shape.STLength()** | Double | Shape.STLength()
 
-## ```los-angeles-county-tracts-voters``` table metadata
+## Metadata: Voters
+
+```los-angeles-county-tracts-voters```
 
 **FIELDNAME** | TYPE | DEFINITION
 ---------------- | ---------- | ----------
