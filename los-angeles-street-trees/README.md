@@ -2,7 +2,7 @@
 
 A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data collection of trees planted within municipal right of way around Los Angeles County, in ```geojson``` and ```Esri Shapefile``` formats. (Some larger cities are stored here as ```csv``` to avoid Github's 100MB file size restriction.)
 
-This repository contains **1.65 million** records of individual trees in **44** cities totally 1.16GB. 
+This repository contains **1.65 million** records of individual trees in **44** cities.
 
 Data from more cities are added daily, and better [documentation](https://github.com/stiles/data/issues/5) is coming soon. Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 
