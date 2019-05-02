@@ -2,7 +2,7 @@
 
 A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data collection of trees planted within municipal right of way around Los Angeles County, in ```geojson``` and ```Esri Shapefile``` formats. (Some larger cities are stored here as ```csv``` to avoid Github's 100MB file size restriction.)
 
-This repository contains **1.65 million** records of individual trees in **45** cities.
+This repository contains **1.69 million** records of individual trees in **46** cities.
 
 Data from more cities are added daily, and better [documentation](https://github.com/stiles/data/issues/5) is coming soon. Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 
@@ -29,6 +29,7 @@ Data from more cities are added daily, and better [documentation](https://github
 [Glendora](https://github.com/stiles/data/tree/master/los-angeles-street-trees/glendora) | 12,600 | 50,073
 [Inglewood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/inglewood) | 21,800 | 109,673
 [La Mirada](https://github.com/stiles/data/tree/master/los-angeles-street-trees/la-mirada) | 17,000 | 48,527
+[Lancaster](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lancaster) | 46,000 | 160,316
 [Lawndale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lawndale) | 7,400 | 32,769
 [Lomita](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lomita) | 3,000 | 20,256
 [Long Beach](https://github.com/stiles/data/tree/master/los-angeles-street-trees/long-beach) | 140,000 | 462,257
@@ -67,6 +68,7 @@ Municipality | **Tree count &darr;** | Population
 [Pasadena](https://github.com/stiles/data/tree/master/los-angeles-street-trees/pasadena) | 71,000 | 137,122
 [Glendale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/glendale) | 56,000 | 203,054
 [Pomona](https://github.com/stiles/data/tree/master/los-angeles-street-trees/pomona) | 50,000 | 149,058
+[Lancaster](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lancaster) | 46,000 | 160,316
 [Burbank](https://github.com/stiles/data/tree/master/los-angeles-street-trees/burbank) | 37,000 | 103,340
 [West Covina](https://github.com/stiles/data/tree/master/los-angeles-street-trees/west-covina) | 33,000 | 106,098
 [Santa Monica](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-monica) | 32,000 | 89,736
