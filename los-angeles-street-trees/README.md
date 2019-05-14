@@ -2,7 +2,7 @@
 
 A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data collection of trees planted within municipal right of way around Los Angeles County, in ```geojson``` and ```Esri Shapefile``` formats. (Some larger cities are stored here as ```csv``` to avoid Github's 100MB file size restriction.)
 
-This repository contains **1.69 million** records of individual trees in **46** cities.
+This repository contains **1.72 million** records of individual trees in **48** cities.
 
 Data from more cities are added daily, and better [documentation](https://github.com/stiles/data/issues/5) is coming soon. Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 
@@ -11,6 +11,7 @@ Data from more cities are added daily, and better [documentation](https://github
 **Municipality &darr;** | Tree count | Population
 ---------------- | ----------: | ----------:
 [Agoura Hills](https://github.com/stiles/data/tree/master/los-angeles-street-trees/agoura-hills) | 5,100 | 20,330
+[Alhambra](https://github.com/stiles/data/tree/master/los-angeles-street-trees/alhambra) | 20,100 | 83,653
 [Arcadia](https://github.com/stiles/data/tree/master/los-angeles-street-trees/arcadia) | 15,600 | 56,364
 [Bell Gardens](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bell-gardens) | 7,000 | 42,072
 [Bellflower](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bellflower) | 8,400 | 76,616
@@ -46,6 +47,7 @@ Data from more cities are added daily, and better [documentation](https://github
 [San Dimas](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-dimas) | 10,400 | 33,371
 [San Fernando](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-fernando) | 9,500 | 23,645
 [San Gabriel](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-gabriel) | 9,900 | 39,718
+[San Marino](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-marino) | 9500 | 13147
 [Santa Clarita](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-clarita) | 112,000 | 210,888
 [Santa Fe Springs](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-fe-springs) | 8,700 | 16,223
 [Santa Monica](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-monica) | 32,000 | 89,736
@@ -80,6 +82,7 @@ Municipality | **Tree count &darr;** | Population
 [Norwalk](https://github.com/stiles/data/tree/master/los-angeles-street-trees/norwalk) | 21,400 | 105,549
 [South Gate](https://github.com/stiles/data/tree/master/los-angeles-street-trees/south-gate) | 20,900 | 94,396
 [Diamond Bar](https://github.com/stiles/data/tree/master/los-angeles-street-trees/diamond-bar) | 20,100 | 55,544
+[Alhambra](https://github.com/stiles/data/tree/master/los-angeles-street-trees/alhambra) | 20,100 | 83,653
 [Palmdale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/palmdale) | 19,000 | 152,750
 [Downey](https://github.com/stiles/data/tree/master/los-angeles-street-trees/downey) | 18,500 | 111,772
 [La Mirada](https://github.com/stiles/data/tree/master/los-angeles-street-trees/la-mirada) | 17,000 | 48,527
@@ -94,6 +97,7 @@ Municipality | **Tree count &darr;** | Population
 [San Dimas](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-dimas) | 10,400 | 33,371
 [San Gabriel](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-gabriel) | 9,900 | 39,718
 [San Fernando](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-fernando) | 9,500 | 23,645
+[San Marino](https://github.com/stiles/data/tree/master/los-angeles-street-trees/san-marino) | 9500 | 13147
 [Temple City](https://github.com/stiles/data/tree/master/los-angeles-street-trees/temple-city) | 9,000 | 35,558
 [West Hollywood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/west-hollywood) | 9,000 | 34,399
 [Santa Fe Springs](https://github.com/stiles/data/tree/master/los-angeles-street-trees/santa-fe-springs) | 8,700 | 16,223
