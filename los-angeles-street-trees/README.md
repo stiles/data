@@ -2,7 +2,7 @@
 
 A growing and [incomplete](https://github.com/stiles/data/issues/6) spatial data collection of trees planted within municipal right of way around Los Angeles County, in ```geojson``` and ```Esri Shapefile``` formats. (Some larger cities are stored here as ```csv``` to avoid Github's 100MB file size restriction.)
 
-This repository contains **1.72 million** records of individual trees in **48** cities.
+This repository contains **1.75 million** records of individual trees in **50** cities.
 
 Data from more cities are added daily, and better [documentation](https://github.com/stiles/data/issues/5) is coming soon. Questions? Email [matt.stiles@latimes.com](mailto:matt.stiles@latimes.com).
 
@@ -13,6 +13,7 @@ Data from more cities are added daily, and better [documentation](https://github
 [Agoura Hills](https://github.com/stiles/data/tree/master/los-angeles-street-trees/agoura-hills) | 5,100 | 20,330
 [Alhambra](https://github.com/stiles/data/tree/master/los-angeles-street-trees/alhambra) | 20,100 | 83,653
 [Arcadia](https://github.com/stiles/data/tree/master/los-angeles-street-trees/arcadia) | 15,600 | 56,364
+[Artesia](https://github.com/stiles/data/tree/master/los-angeles-street-trees/artesia) | 2,500 | 16,522
 [Bell Gardens](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bell-gardens) | 7,000 | 42,072
 [Bellflower](https://github.com/stiles/data/tree/master/los-angeles-street-trees/bellflower) | 8,400 | 76,616
 [Beverly Hills](https://github.com/stiles/data/tree/master/los-angeles-street-trees/beverly-hills) | 29,000 | 34,109
@@ -54,6 +55,7 @@ Data from more cities are added daily, and better [documentation](https://github
 [South Gate](https://github.com/stiles/data/tree/master/los-angeles-street-trees/south-gate) | 20,900 | 94,396
 [South Pasadena](https://github.com/stiles/data/tree/master/los-angeles-street-trees/south-pasadena) | 11,400 | 25,619
 [Temple City](https://github.com/stiles/data/tree/master/los-angeles-street-trees/temple-city) | 9,000 | 35,558
+[Ventura County/Simi Valley](https://github.com/stiles/data/tree/master/los-angeles-street-trees/ventura-county/simi-valley) | 16,400 | 126,000
 [Walnut](https://github.com/stiles/data/tree/master/los-angeles-street-trees/walnut) | 3,200 | 29,172
 [West Covina](https://github.com/stiles/data/tree/master/los-angeles-street-trees/west-covina) | 33,000 | 106,098
 [West Hollywood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/west-hollywood) | 9,000 | 34,399
@@ -81,12 +83,13 @@ Municipality | **Tree count &darr;** | Population
 [Inglewood](https://github.com/stiles/data/tree/master/los-angeles-street-trees/inglewood) | 21,800 | 109,673
 [Norwalk](https://github.com/stiles/data/tree/master/los-angeles-street-trees/norwalk) | 21,400 | 105,549
 [South Gate](https://github.com/stiles/data/tree/master/los-angeles-street-trees/south-gate) | 20,900 | 94,396
-[Diamond Bar](https://github.com/stiles/data/tree/master/los-angeles-street-trees/diamond-bar) | 20,100 | 55,544
 [Alhambra](https://github.com/stiles/data/tree/master/los-angeles-street-trees/alhambra) | 20,100 | 83,653
+[Diamond Bar](https://github.com/stiles/data/tree/master/los-angeles-street-trees/diamond-bar) | 20,100 | 55,544
 [Palmdale](https://github.com/stiles/data/tree/master/los-angeles-street-trees/palmdale) | 19,000 | 152,750
 [Downey](https://github.com/stiles/data/tree/master/los-angeles-street-trees/downey) | 18,500 | 111,772
 [La Mirada](https://github.com/stiles/data/tree/master/los-angeles-street-trees/la-mirada) | 17,000 | 48,527
 [Culver City](https://github.com/stiles/data/tree/master/los-angeles-street-trees/culver-city) | 16,900 | 38,883
+[Ventura County/Simi Valley](https://github.com/stiles/data/tree/master/los-angeles-street-trees/ventura-county/simi-valley) | 16,400 | 126,000
 [Arcadia](https://github.com/stiles/data/tree/master/los-angeles-street-trees/arcadia) | 15,600 | 56,364
 [Covina](https://github.com/stiles/data/tree/master/los-angeles-street-trees/covina) | 14,600 | 47,796
 [Rancho Palos Verdes](https://github.com/stiles/data/tree/master/los-angeles-street-trees/rancho-palos-verdes) | 13,500 | 41,643
@@ -111,6 +114,7 @@ Municipality | **Tree count &darr;** | Population
 [Agoura Hills](https://github.com/stiles/data/tree/master/los-angeles-street-trees/agoura-hills) | 5,100 | 20,330
 [Walnut](https://github.com/stiles/data/tree/master/los-angeles-street-trees/walnut) | 3,200 | 29,172
 [Lomita](https://github.com/stiles/data/tree/master/los-angeles-street-trees/lomita) | 3,000 | 20,256
+[Artesia](https://github.com/stiles/data/tree/master/los-angeles-street-trees/artesia) | 2,500 | 16,522
 
 ## Sources
 
