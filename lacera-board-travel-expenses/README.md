@@ -19,3 +19,5 @@ Field | Description
 **region** | Abbreviated codes for regions (if overseas)
 
 Also included in this repo are simple summary tables with [counts](https://github.com/stiles/data/blob/master/lacera-board-travel-expenses/places.csv) of locations attended `places.csv` and [spending totals](https://github.com/stiles/data/blob/master/lacera-board-travel-expenses/attendees.csv) by current and past board members `attendees.csv`.
+
+Please [let us know](mailto:matt.stiles@latimes.com) if you find interesting information in the documents, if you have any questions. You can reach You can send documents, pictures and messages privately using the [Signal smartphone app](https://signal.org/) to (202) 670-8742.
