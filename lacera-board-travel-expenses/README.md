@@ -6,17 +6,20 @@ The data, obtained under the Califnornia Public Records Act, were used to report
 
 They document trips across the United States and oversees by members of the Boards of Investments and Retirement. 
 
-The dataset has details on 445 trips and nine fields. 
+The dataset has details on 445 trips, which are detailed in nine fields. 
 
 Field | Description
 ------------ | ------------- 
-**Attendee** | Board member name
-**Title** | Name event
-**Start** | Travel start date
-**End** | Travel end date
-**Status** | Attended or cancelled
-**ExpenseType** | A,B,X
-**Location** | Event location
-**Fiscal** | Fiscal year
-**Overseas** | y/n
-**Region** | Abbreviated codes for regions
+**attendee** | Board member name
+**title** | Name event
+**start** | Travel start date
+**end** | Travel end date
+**status** | Attended or cancelled
+**location** | Event location
+**fiscal** | Fiscal year
+**overseas** | y/n
+**region** | Abbreviated codes for regions (if overseas)
+
+Also included in this repo are simple summary tables with [counts](https://github.com/stiles/data/blob/master/lacera-board-travel-expenses/places.csv) of locations attended `places.csv` and [spending totals](https://github.com/stiles/data/blob/master/lacera-board-travel-expenses/attendees.csv) by current and past board members `attendees.csv`. 
+
+The data were compiled from more than [1,300 pages of travels memos and expense vouchers](https://www.documentcloud.org/search/projectid:45052-LACERA) released by the association under the California Public Records Act. 
