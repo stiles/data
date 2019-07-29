@@ -1,8 +1,8 @@
 # LACERA Board Travel Records
 
-These data sets list hundreds of trips taken by board members under the [Los Angeles County Employees Retirement Association](https://www.lacera.com/home/index.html) education and travel policy.
+These data sets list hundreds of trips taken by board members under the [Los Angeles County Employees Retirement Association](https://www.lacera.com/home/index.html) education and travel policy — travel detailed in [this story](https://www.latimes.com/california/story/2019-07-28/la-me-pension-travel-costs-lacera) in the *Los Angeles Times*. 
 
-The data were compiled from more than [1,300 pages of travels memos and expense vouchers](https://www.documentcloud.org/search/projectid:45052-LACERA) released by the association under the California Public Records Act. They explain travel detailed in [this story](https://www.latimes.com/california/story/2019-07-28/la-me-pension-travel-costs-lacera) in the *Los Angeles Times*. 
+The data were compiled from more than [1,300 pages of travels memos and expense vouchers](https://www.documentcloud.org/search/projectid:45052-LACERA) released by the association pursuant the California Public Records Act. 
 
 The data show trips across the United States and oversees by members of the Boards of Investments and Retirement. The file `trips.csv` has details on 445 cases in nine fields.
 
