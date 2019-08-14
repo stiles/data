@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "mandarin-orange-trees",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "INVENTORYI": 7083585, "ADDRESS": 5824, "BOTANICALN": "Citrus reticulata", "species": "TANGERINE", "height": "01-15" }, "geometry": { "type": "Point", "coordinates": [ -118.118318847219996, 33.814430411369003 ] } },
+{ "type": "Feature", "properties": { "INVENTORYI": 11986247, "ADDRESS": 3710, "BOTANICALN": "Citrus reticulata", "species": "TANGERINE", "height": "01-15" }, "geometry": { "type": "Point", "coordinates": [ -118.148977769019993, 33.788925991581003 ] } },
+{ "type": "Feature", "properties": { "INVENTORYI": 12011563, "ADDRESS": 2907, "BOTANICALN": "Citrus reticulata", "species": "TANGERINE", "height": "01-15" }, "geometry": { "type": "Point", "coordinates": [ -118.157470184109997, 33.857874275405003 ] } }
+]
+}
