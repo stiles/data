@@ -23,20 +23,20 @@ Some of these data sets — schools, for example — represent complete lists o
 
 ## Converted location layers
 
-`la_city_boundary_3310.geojson
-la_city_gis_bikeways_3310.geojson
-la_city_parcels_3310.geojson
-la_city_parks_3310.geojson
-la_city_parks_buffer_500ft.geojson
-la_city_parks_schools_childcare_homeless_buffer_dissolved_4326.geojson
-la_city_parks_schools_childcare_homeless_buffer_dissolved.geojson
-la_city_parks_schools_childcare_homeless_buffer.geojson
-la_county_gis_childcare_3310.geojson
-la_county_gis_childcare_buffer_500ft.geojson
-la_county_gis_homeless_shelters_3310.geojson
-la_county_homeless_shelters_buffer_500ft.geojson
-lausd_schools_boundaries_3310.geojson
-lausd_schools_buffer_500ft.geojson`
+* la_city_boundary_3310.geojson
+* la_city_gis_bikeways_3310.geojson
+* la_city_parcels_3310.geojson
+* la_city_parks_3310.geojson
+* la_city_parks_buffer_500ft.geojson
+* la_city_parks_schools_childcare_homeless_buffer_dissolved_4326.geojson
+* la_city_parks_schools_childcare_homeless_buffer_dissolved.geojson
+* la_city_parks_schools_childcare_homeless_buffer.geojson
+* la_county_gis_childcare_3310.geojson
+* la_county_gis_childcare_buffer_500ft.geojson
+* la_county_gis_homeless_shelters_3310.geojson
+* la_county_homeless_shelters_buffer_500ft.geojson
+* lausd_schools_boundaries_3310.geojson
+* lausd_schools_buffer_500ft.geojson
 
 ## Methodology 
 
