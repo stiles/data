@@ -8,7 +8,7 @@ This repo contains datasets used to examine the effects of [proposed homeless sl
 
 * Public schools
 * Children’s day care centers
- * Assign to parcels and plot
+* * Relate to parcels
 * Public parks
 
 ## Potentially other targeted location types
