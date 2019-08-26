@@ -81,10 +81,10 @@ Located layers for selected location types from LA City and LA County GIS portal
 
 ![Citywide](https://raw.githubusercontent.com/stiles/data/master/la-city-homeless-buffer-maps/maps/citywide.png)
 
-### Downtown: 
+### Skid Row: 
 
 ![Downtown](https://raw.githubusercontent.com/stiles/data/master/la-city-homeless-buffer-maps/maps/skid-row.png)
 
-### Downtown: 
+### Venice: 
 
 ![Downtown](https://raw.githubusercontent.com/stiles/data/master/la-city-homeless-buffer-maps/maps/venice.png)
