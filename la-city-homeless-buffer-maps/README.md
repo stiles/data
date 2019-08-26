@@ -54,3 +54,13 @@ Located layers for selected location types from LA City and LA County GIS portal
 * Area in square miles: 
   * Before (478 sq miles)
   * After (229 sq miles)
+
+## Maps: Orange regions would be restricted areas under the proposal.
+
+### Downtown: 
+
+![Downtown](https://raw.githubusercontent.com/stiles/data/master/la-city-homeless-buffer-maps/maps/downtown_dissolved_buffer.png)
+
+### Citywide: 
+
+![Citywide](https://raw.githubusercontent.com/stiles/data/master/la-city-homeless-buffer-maps/maps/city_dissolved_buffer.png)
