@@ -8,6 +8,7 @@ This repo contains datasets used to examine the effects of [proposed homeless sl
 
 * Public schools
 * Children’s day care centers
+ * Assign to parcels and plot
 * Public parks
 
 ## Potentially other targeted location types
@@ -16,6 +17,8 @@ This repo contains datasets used to examine the effects of [proposed homeless sl
 * Bicycle lanes?
 * Large venues such as Staples Center? 
 * Bridges and tunnels in school routes?
+* Private schools?
+* Sidewalk vending ordinance? 
 
 ## Data sources for locations
 
