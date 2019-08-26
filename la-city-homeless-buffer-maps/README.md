@@ -71,7 +71,7 @@ Located layers for selected location types from LA City and LA County GIS portal
   * Before (478 sq miles)
   * After (229 sq miles)
 
-## Maps: Orange regions would be restricted areas under the proposal.
+## Maps: Teal regions would be restricted areas under the proposal.
 
 ### Downtown: 
 
