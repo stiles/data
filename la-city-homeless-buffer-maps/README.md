@@ -9,19 +9,25 @@ This repo contains datasets used to examine the effects of [proposed homeless sl
 * Public schools
 * Children’s day care centers
 * Public parks
-* Homeless shelters
+
+## Potentially other targeted location types
+
+* Homeless shelters (established recently)?
+* Bicycle lanes?
+* Large venues such as Staples Center? 
+* Bridges and tunnels in school routes?
 
 ## Data sources for locations
 
 Some of these data sets — schools, for example — represent complete lists of properties. Others, such as those collected by Los Angeles County GIS officials for homeless shelters and child care centers, are compiled from official sources for private and government-related facilities, but they are not complete lists. 
 
-[L.A. County parcel boundaries](https://permitting.gis.lacounty.gov/permitting/rest/services/energovDev/ViewableDev/MapServer/8)
-[L.A. County land usage codes](http://egis3.lacounty.gov/dataportal/wp-content/uploads/2009/12/usecodes-chart.pdf)
-[LAUSD school boundaries](https://maps.lacity.org/lahub/rest/services/LAUSD_Schools/MapServer/2)
-[LA City parks](https://maps.lacity.org/lahub/rest/services/Recreation_and_Parks_Department/MapServer/5)
-[LA City homeless shelters](https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/158)
-[LA City child care centers](https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/149)
-[City of L.A. bikeways](http://geohub.lacity.org/datasets/230abc621b144dbc96cca83d65bd454d_0)
+* [L.A. County parcel boundaries](https://permitting.gis.lacounty.gov/permitting/rest/services/energovDev/ViewableDev/MapServer/8)
+* [L.A. County land usage codes](http://egis3.lacounty.gov/dataportal/wp-content/uploads/2009/12/usecodes-chart.pdf)
+* [LAUSD school boundaries](https://maps.lacity.org/lahub/rest/services/LAUSD_Schools/MapServer/2)
+* [LA City parks](https://maps.lacity.org/lahub/rest/services/Recreation_and_Parks_Department/MapServer/5)
+* [LA City homeless shelters](https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/158)
+* [LA City child care centers](https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/149)
+* [City of L.A. bikeways](http://geohub.lacity.org/datasets/230abc621b144dbc96cca83d65bd454d_0)
 
 ## Converted location layers
 
@@ -51,4 +57,16 @@ Located layers for selected location types from LA City and LA County GIS portal
 * Downtown/Skid Row essentially gone
 * Venice, too
 * Bunker Hill lone place in downtown
-* Area in square miles: Before (478 sq miles); After (229 sq miles)
+* Area in square miles: 
+  * Before (478 sq miles)
+  * After (229 sq miles)
+
+## Maps: Orange regions would be restricted areas under the proposal.
+
+### Downtown: 
+
+![Downtown](https://raw.githubusercontent.com/stiles/data/master/la-city-homeless-buffer-maps/maps/downtown_dissolved_buffer.png)
+
+### Citywide: 
+
+![Citywide](https://raw.githubusercontent.com/stiles/data/master/la-city-homeless-buffer-maps/maps/city_dissolved_buffer.png)
