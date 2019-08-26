@@ -4,18 +4,18 @@ This repo contains datasets used to examine the effects of [proposed homeless sl
 
 **HEADLINE:** *They would essentially cut the city in half for the homeless population. After the buffers are applied, the city decreases from 478 square miles to 229 square miles.* 
 
-## Targeted location types
+## Targeted location types so far...
 
-* Public schools
-* Children’s day care centers
-  * Relate to parcels
-* Public parks
+* Public schools (polygons)
+* Children’s day care centers (points)
+* Public parks (polygons)
 
-## Potentially other targeted location types
+## Places we could add... 
 
-* Homeless shelters (established recently)?
-* Bicycle lanes?
-* Large venues such as Staples Center?
+* Relate childcare points to parcels (polygons)
+* Homeless shelters (get this established recently)
+* Bicycle lanes
+* Large venues such as Staples Center
   * Staples Center
   * Coliseum
   * Hollywood Bowl
@@ -23,9 +23,9 @@ This repo contains datasets used to examine the effects of [proposed homeless sl
   * Hollywood Walk of Fame
   * Universal Studios
   * El Pubelo de Los Angeles Historical Monument
-* Bridges and tunnels in school routes?
-* Private schools?
-* Sidewalk vending ordinance?
+* Bridges and tunnels in school routes
+* Private schools
+* Sidewalk vending ordinance
 
 ## Data sources for locations
 
