@@ -15,10 +15,17 @@ This repo contains datasets used to examine the effects of [proposed homeless sl
 
 * Homeless shelters (established recently)?
 * Bicycle lanes?
-* Large venues such as Staples Center? 
+* Large venues such as Staples Center?
+  * Staples Center
+  * Coliseum
+  * Hollywood Bowl
+  * Dodger Stadium
+  * Hollywood Walk of Fame
+  * Universal Studios
+  * El Pubelo de Los Angeles Historical Monument
 * Bridges and tunnels in school routes?
 * Private schools?
-* Sidewalk vending ordinance? 
+* Sidewalk vending ordinance?
 
 ## Data sources for locations
 
