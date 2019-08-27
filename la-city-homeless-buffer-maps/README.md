@@ -29,7 +29,7 @@ The proposal isn't yet specific, so we made some assumptions about the types of 
 * Relate childcare points to parcels (perhaps just use points)
 * Homeless shelters (must acquire list of recent locations)
 * Bicycle lanes
-* Large venues such as Staples Center (included if AIN# below)
+* Large sports, iconic or events venues
   * Hollywood Walk of Fame (use segment of Hollywood Blvd?)
 * Bridges and tunnels in school routes (must acquire)
 * Sidewalk vending ordinance (must acquire)
