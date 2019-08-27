@@ -24,7 +24,7 @@ The proposal isn't yet specific, so we made some assumptions about the types of 
   * Universal Studios (2424043034/2424043021)
   * El Pubelo de Los Angeles Historical Monument (5408008900)
 
-## Places we could might also include:
+## Places we could also include:
 
 * Relate childcare points to parcels (perhaps just use points)
 * Homeless shelters (must acquire list of recent locations)
