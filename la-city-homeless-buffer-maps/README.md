@@ -1,30 +1,34 @@
 # City of Los Angeles homeless buffer maps
 
-This repo contains datasets used to examine the effects of [proposed homeless sleeping restriction zones](https://www.latimes.com/california/story/2019-08-22/homeless-sidewalk-sleeping-ban-restrictions-boise-case-shelter) 500 feet around selected property types. The data folder contains original layers, layers with 500ft buffers and a final dissolved layer showing how the restrictions would limit large swaths of the city to the homeless.  
+This repo contains datasets and code used to examine the effects of [proposed homeless sleeping restriction zones](https://www.latimes.com/california/story/2019-08-22/homeless-sidewalk-sleeping-ban-restrictions-boise-case-shelter) around selected property types.
 
-**HEADLINE:** *They would essentially eliminate 30% the city from the homeless population. After the buffers are applied, the city decreases from 475 square miles to 142 square miles.* 
+To perform the spatial analysis, the Times used the Python programming language and a popular open-source spatial library, GeoPandas, to plot parks, schools, day care centers and some special venues — and then to draw 500-foot buffers around them. The results were then clipped by neighborhood, and the percentage of buffered area for each location was calculated.
 
-## Targeted location types so far...
+**The analysis shows that at least 40% the city would be excluded for sleeping under the proposed rules. After the buffers are applied, the city decreases from 475 square miles to 195 square miles.**
 
-* Public schools (polygons)
-* Private schools (polygons)
-* Children’s day care centers (points)
-* City parks (polygons)
-* Special venues (polygons)
+The proposal isn't yet specific, so we made some assumptions about the types of locations to include. The data for these locations come from city and county GIS portals, and they've been clipped to the city's boundaries before the analysis. 
 
-## Places we could add... 
+## Targeted location types included...
+
+* All public schools (polygons from the city)
+* Private schools (polygons extracted from the countywide parcel file)
+* Children’s day care centers (points from the county's file with the '72' use code)
+* City parks (polygons from the county's file)
+* Special venues (polygons extracted manually from the county's parcel file)
+  * Staples Center (AIN# 5138016913)
+  * Los Angeles Veterans Memorial Coliseum (5037027937)
+  * Hollywood Bowl (5549009903)
+  * Dodger Stadium (5415018016/5415018015)
+  * Universal Studios (2424043034/2424043021)
+  * El Pubelo de Los Angeles Historical Monument (5408008900)
+
+## Places we could might also include... 
 
 * Relate childcare points to parcels (perhaps just use points)
 * Homeless shelters (must acquire list of recent locations)
 * Bicycle lanes
 * Large venues such as Staples Center (included if AIN# below)
-  * Staples Center (5138016913)
-  * Los Angeles Veterans Memorial Coliseum (5037027937)
-  * Hollywood Bowl (5549009903)
-  * Dodger Stadium (5415018016/5415018015)
   * Hollywood Walk of Fame (use segment of Hollywood Blvd?)
-  * Universal Studios (2424043034/2424043021)
-  * El Pubelo de Los Angeles Historical Monument (5408008900)
 * Bridges and tunnels in school routes (must acquire)
 * Sidewalk vending ordinance (must acquire)
 
@@ -57,20 +61,16 @@ Some of these data sets — schools, for example — represent complete lists o
 * lausd_schools_boundaries_3310.geojson
 * lausd_schools_buffer_500ft.geojson
 
-## Methodology 
-
-Located layers for selected location types from LA City and LA County GIS portals. Projected the layers to *California Albers*, `ESPG: 3310`. Created a 500ft buffer around each layer. Dissolved the layers into one large layer, called `la_city_parks_schools_childcare_homeless_buffer_dissolved.geojson`. Returned the larger buffer layer back to `EPSG: 4326` for web mapping. 
-
 [Batch data conversion](https://gist.github.com/stiles/1c4b46ef1ca5a8e9350b622aa8bc9110)
 
 ## Stories?
 
-* Downtown/Skid Row essentially gone
-* Venice, too
-* Bunker Hill lone place in downtown
+* Downtown limited
+* Venice cut by 50%
+* Koreatown cut by 50%
 * Area in square miles: 
   * Before (475 sq. miles)
-  * After (142 sq. miles)
+  * After (195 sq. miles)
 
 ## Maps: Teal regions would be restricted areas under the proposal.
 
