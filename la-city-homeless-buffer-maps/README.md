@@ -7,25 +7,26 @@ This repo contains datasets used to examine the effects of [proposed homeless sl
 ## Targeted location types so far...
 
 * Public schools (polygons)
+* Private schools (polygons)
 * Children’s day care centers (points)
-* Public parks (polygons)
+* City parks (polygons)
+* Special venues (polygons)
 
 ## Places we could add... 
 
-* Relate childcare points to parcels (polygons)
-* Homeless shelters (get this established recently)
+* Relate childcare points to parcels (perhaps just use points)
+* Homeless shelters (must acquire list of recent locations)
 * Bicycle lanes
-* Large venues such as Staples Center
-  * Staples Center
-  * Coliseum
-  * Hollywood Bowl
-  * Dodger Stadium
-  * Hollywood Walk of Fame
-  * Universal Studios
-  * El Pubelo de Los Angeles Historical Monument
-* Bridges and tunnels in school routes
-* Private schools
-* Sidewalk vending ordinance
+* Large venues such as Staples Center (included if AIN# below)
+  * Staples Center (5138016913)
+  * Los Angeles Veterans Memorial Coliseum (5037027937)
+  * Hollywood Bowl (5549009903)
+  * Dodger Stadium (5415018016/5415018015)
+  * Hollywood Walk of Fame (use segment of Hollywood Blvd?)
+  * Universal Studios (2424043034/2424043021)
+  * El Pubelo de Los Angeles Historical Monument (5408008900)
+* Bridges and tunnels in school routes (must acquire)
+* Sidewalk vending ordinance (must acquire)
 
 ## Data sources for locations
 
