@@ -6,7 +6,7 @@ To perform the spatial analysis, the Times used the Python programming language 
 
 **The analysis shows that at least 40% the city would be excluded for sleeping under the proposed rules. After the buffers are applied, the city in effect decreases from 475 square miles to 195 square miles.**
 
-The analysis is documented in a Jupyter Notebook [here](https://nbviewer.jupyter.org/github/stiles/data/blob/master/la-city-homeless-buffer-maps/la-homeless-buffers.ipynb). The results of the neighborhood-specific buffer area calculations are [here](https://github.com/stiles/data/blob/master/la-city-homeless-buffer-maps/buffered/hood-breakdown.csv).
+The analysis is documented in a Jupyter Notebook [here](https://nbviewer.jupyter.org/github/stiles/data/blob/master/la-city-homeless-buffer-maps/la-homeless-buffers.ipynb). The results of the neighborhood-specific buffer area calculations are [here](https://github.com/stiles/data/blob/master/la-city-homeless-buffer-maps/buffered/hood-breakdown.csv). A **rough** draft of the restricted area map is [here](https://api.mapbox.com/styles/v1/latimes/cjzsnpky006e81cns4x2pnywm.html?fresh=true&title=true&access_token=pk.eyJ1IjoibGF0aW1lcyIsImEiOiJjajhvcXRraGUwNnlwMzNyczR3cTBsaWh1In0.0cPKLwe2A0ET4P5CtWSiLQ#11.12/34.0205/-118.3413).
 
 ## Targeted location types included:
 
@@ -22,7 +22,7 @@ The proposal isn't yet specific, so we made some assumptions about the types of 
   * Hollywood Bowl (5549009903)
   * Dodger Stadium (5415018016/5415018015)
   * Universal Studios (2424043034/2424043021)
-  * El Pubelo de Los Angeles Historical Monument (5408008900)
+  * El Pubela de Los Angeles Historical Monument (5408008900)
 
 ## Places we could also include:
 
