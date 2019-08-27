@@ -15,7 +15,7 @@ The proposal isn't yet specific, so we made some assumptions about the types of 
 * All public schools (polygons from the city)
 * Private schools (polygons extracted from the countywide parcel file)
 * Children’s day care centers (points from the county's file with the '72' use code)
-* City parks (polygons from the county's file)
+* City, county and state parks (polygons from the county's file) within city limits
 * Special venues (polygons extracted manually from the county's parcel file)
   * Staples Center (AIN# 5138016913)
   * Los Angeles Veterans Memorial Coliseum (5037027937)
