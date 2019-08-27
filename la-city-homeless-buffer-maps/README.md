@@ -6,9 +6,12 @@ To perform the spatial analysis, the Times used the Python programming language 
 
 **The analysis shows that at least 40% the city would be excluded for sleeping under the proposed rules. After the buffers are applied, the city decreases from 475 square miles to 195 square miles.**
 
-The proposal isn't yet specific, so we made some assumptions about the types of locations to include. The data for these locations come from city and county GIS portals, and they've been clipped to the city's boundaries before the analysis. 
+The analysis is documented in a Jupyter Notebook [here](https://nbviewer.jupyter.org/github/stiles/data/blob/master/la-city-homeless-buffer-maps/la-homeless-buffers.ipynb). The results of the neighborhood-specific buffer area calculations are [here](https://github.com/stiles/data/blob/master/la-city-homeless-buffer-maps/buffered/hood-breakdown.csv). 
 
 ## Targeted location types included...
+
+The proposal isn't yet specific, so we made some assumptions about the types of locations to include. The data for these locations come from city and county GIS portals, and they've been clipped to the city's boundaries before the analysis. 
+
 
 * All public schools (polygons from the city)
 * Private schools (polygons extracted from the countywide parcel file)
