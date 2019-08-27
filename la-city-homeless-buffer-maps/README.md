@@ -10,7 +10,7 @@ The analysis is documented in a Jupyter Notebook [here](https://nbviewer.jupyter
 
 ## Targeted location types included:
 
-The proposal isn't yet specific, so we made some assumptions about the types of locations to include. The data for these locations come from city and county GIS portals, and they've been clipped to the city's boundaries before the analysis. 
+The proposal isn't yet specific, so we made some assumptions about the types of locations to include. The data for these locations come from city and county GIS portals, and they've been clipped to the city's boundaries before the analysis. **We drew 500-foot buffers around these places:** 
 
 * All public schools (polygons from the city)
 * Private schools (polygons extracted from the countywide parcel file)
@@ -22,7 +22,7 @@ The proposal isn't yet specific, so we made some assumptions about the types of 
   * Hollywood Bowl (5549009903)
   * Dodger Stadium (5415018016/5415018015)
   * Universal Studios (2424043034/2424043021)
-  * El Pubela de Los Angeles Historical Monument (5408008900)
+  * El Pueblo de Los Angeles Historical Monument (5408008900)
 
 ## Places we could also include:
 
