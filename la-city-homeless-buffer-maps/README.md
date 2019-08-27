@@ -2,7 +2,7 @@
 
 This repo contains datasets used to examine the effects of [proposed homeless sleeping restriction zones](https://www.latimes.com/california/story/2019-08-22/homeless-sidewalk-sleeping-ban-restrictions-boise-case-shelter) 500 feet around selected property types. The data folder contains original layers, layers with 500ft buffers and a final dissolved layer showing how the restrictions would limit large swaths of the city to the homeless.  
 
-**HEADLINE:** *They would essentially cut the city in half for the homeless population. After the buffers are applied, the city decreases from 478 square miles to 229 square miles.* 
+**HEADLINE:** *They would essentially eliminate 30% the city from the homeless population. After the buffers are applied, the city decreases from 475 square miles to 142 square miles.* 
 
 ## Targeted location types so far...
 
@@ -69,8 +69,8 @@ Located layers for selected location types from LA City and LA County GIS portal
 * Venice, too
 * Bunker Hill lone place in downtown
 * Area in square miles: 
-  * Before (478 sq miles)
-  * After (229 sq miles)
+  * Before (475 sq. miles)
+  * After (142 sq. miles)
 
 ## Maps: Teal regions would be restricted areas under the proposal.
 
