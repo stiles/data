@@ -6,12 +6,11 @@ To perform the spatial analysis, the Times used the Python programming language 
 
 **The analysis shows that at least 40% the city would be excluded for sleeping under the proposed rules. After the buffers are applied, the city in effect decreases from 475 square miles to 195 square miles.**
 
-The analysis is documented in a Jupyter Notebook [here](https://nbviewer.jupyter.org/github/stiles/data/blob/master/la-city-homeless-buffer-maps/la-homeless-buffers.ipynb). The results of the neighborhood-specific buffer area calculations are [here](https://github.com/stiles/data/blob/master/la-city-homeless-buffer-maps/buffered/hood-breakdown.csv). 
+The analysis is documented in a Jupyter Notebook [here](https://nbviewer.jupyter.org/github/stiles/data/blob/master/la-city-homeless-buffer-maps/la-homeless-buffers.ipynb). The results of the neighborhood-specific buffer area calculations are [here](https://github.com/stiles/data/blob/master/la-city-homeless-buffer-maps/buffered/hood-breakdown.csv).
 
-## Targeted location types included...
+## Targeted location types included:
 
 The proposal isn't yet specific, so we made some assumptions about the types of locations to include. The data for these locations come from city and county GIS portals, and they've been clipped to the city's boundaries before the analysis. 
-
 
 * All public schools (polygons from the city)
 * Private schools (polygons extracted from the countywide parcel file)
@@ -25,7 +24,7 @@ The proposal isn't yet specific, so we made some assumptions about the types of 
   * Universal Studios (2424043034/2424043021)
   * El Pubelo de Los Angeles Historical Monument (5408008900)
 
-## Places we could might also include... 
+## Places we could might also include:
 
 * Relate childcare points to parcels (perhaps just use points)
 * Homeless shelters (must acquire list of recent locations)
@@ -37,7 +36,7 @@ The proposal isn't yet specific, so we made some assumptions about the types of 
 
 ## Data sources for locations
 
-Both raw and processed data for this project is available in this repo. 
+Both raw and processed data for this project are available in this repo. 
 
 Some of these data sets — schools, for example — represent complete lists of properties. Others, such as those collected by Los Angeles County GIS officials for homeless shelters and child care centers, are compiled from official sources for private and government-related facilities, but they are not complete lists. 
 
