@@ -37,34 +37,43 @@ The proposal isn't yet specific, so we made some assumptions about the types of 
 
 ## Data sources for locations
 
+Both raw and processed data for this project is available in this repo. 
+
 Some of these data sets — schools, for example — represent complete lists of properties. Others, such as those collected by Los Angeles County GIS officials for homeless shelters and child care centers, are compiled from official sources for private and government-related facilities, but they are not complete lists. 
 
 * [L.A. County parcel boundaries](https://permitting.gis.lacounty.gov/permitting/rest/services/energovDev/ViewableDev/MapServer/8)
 * [L.A. County land usage codes](http://egis3.lacounty.gov/dataportal/wp-content/uploads/2009/12/usecodes-chart.pdf)
 * [LAUSD school boundaries](https://maps.lacity.org/lahub/rest/services/LAUSD_Schools/MapServer/2)
-* [LA City parks](https://maps.lacity.org/lahub/rest/services/Recreation_and_Parks_Department/MapServer/5)
+* [LA city/county parks](https://egis3.lacounty.gov/dataportal/2016/10/25/department-of-parks-and-recreation-county-parks-and-open-space/)
 * [LA City homeless shelters](https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/158)
 * [LA City child care centers](https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/149)
 * [City of L.A. bikeways](http://geohub.lacity.org/datasets/230abc621b144dbc96cca83d65bd454d_0)
 
-## Converted location layers
+## Raw data location layers
 
-* la_city_boundary_3310.geojson
-* la_city_gis_bikeways_3310.geojson
-* la_city_parcels_3310.geojson
-* la_city_parks_3310.geojson
-* la_city_parks_buffer_500ft.geojson
-* la_city_parks_schools_childcare_homeless_buffer_dissolved_4326.geojson
-* la_city_parks_schools_childcare_homeless_buffer_dissolved.geojson
-* la_city_parks_schools_childcare_homeless_buffer.geojson
-* la_county_gis_childcare_3310.geojson
-* la_county_gis_childcare_buffer_500ft.geojson
-* la_county_gis_homeless_shelters_3310.geojson
-* la_county_homeless_shelters_buffer_500ft.geojson
-* lausd_schools_boundaries_3310.geojson
-* lausd_schools_buffer_500ft.geojson
+* la_city_county_parks.geojson
+* la_city_gis_childcare_clipped.geojson
+* la_city_parks_1566703413127.geojson
+* la_city_special_venues.geojson
+* la_county_private_school_parcels.geojson
+* la-county-neighborhoods-current.geojson
+* lausd_schools_boundaries_1566703408821.geojson
+* la_county_gis_homeless_shelters_1566703407847.geojson
+* la_city_boundary.geojson
+* la_city_bikeways.geojson
 
-[Batch data conversion](https://gist.github.com/stiles/1c4b46ef1ca5a8e9350b622aa8bc9110)
+## Processed data location layers
+
+* special_venues_3310.geojson
+* private_schools_3310.geojson
+* public_schools_3310.geojson
+* parks_3310.geojson
+* childcare_3310.geojson
+* bikeways_3310.geojson
+* homeless_3310.geojson
+* city_3310.geojson
+
+[Batch data conversion sketching](https://gist.github.com/stiles/1c4b46ef1ca5a8e9350b622aa8bc9110)
 
 ## Stories?
 
