@@ -14,7 +14,7 @@ The proposal isn't yet specific, so we made some assumptions about the types of 
 
 * All public schools (polygons from the city)
 * Private schools (polygons extracted from the countywide parcel file)
-* Children’s day care centers (points from the county's file with the '72' use code)
+* Children’s day care centers (points from the county's DPSS file)
 * City, county and state parks (polygons from the county's file) within city limits
 * Special venues (polygons extracted manually from the county's parcel file)
   * Staples Center (AIN# 5138016913)
@@ -23,14 +23,13 @@ The proposal isn't yet specific, so we made some assumptions about the types of 
   * Dodger Stadium (5415018016/5415018015)
   * Universal Studios (2424043034/2424043021)
   * El Pueblo de Los Angeles Historical Monument (5408008900)
+  * Hollywood Walk of Fame (Hollywood Blvd from La Brea to Gower)
 
 ## Places we could also include:
 
 * Relate childcare points to parcels (perhaps just use points)
 * Homeless shelters (must acquire list of recent locations)
-* Bicycle lanes
-* Large sports, iconic or events venues
-  * Hollywood Walk of Fame (use segment of Hollywood Blvd?)
+* City bike and recreational paths
 * Bridges and tunnels in school routes (must acquire)
 
 ## Data sources for locations
