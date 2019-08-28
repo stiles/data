@@ -82,7 +82,7 @@ Some of these data sets — schools, for example — represent complete lists o
   * Before (475 sq. miles)
   * After (195 sq. miles)
 
-## Maps: Teal regions would be restricted areas under the proposal.
+## Maps: Orange regions would be restricted areas under the proposal.
 
 ### Downtown: 
 
