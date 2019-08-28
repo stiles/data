@@ -1,76 +1,86 @@
 # City of Los Angeles homeless buffer maps
 
-This repo contains datasets used to examine the effects of [proposed homeless sleeping restriction zones](https://www.latimes.com/california/story/2019-08-22/homeless-sidewalk-sleeping-ban-restrictions-boise-case-shelter) 500 feet around selected property types. The data folder contains original layers, layers with 500ft buffers and a final dissolved layer showing how the restrictions would limit large swaths of the city to the homeless.  
+This repo contains datasets and code used to examine the effects of [proposed homeless sleeping restriction zones](https://www.latimes.com/california/story/2019-08-22/homeless-sidewalk-sleeping-ban-restrictions-boise-case-shelter) around selected property types.
 
-**HEADLINE:** *They would essentially eliminate 30% the city from the homeless population. After the buffers are applied, the city decreases from 475 square miles to 142 square miles.* 
+To perform the spatial analysis, the Times used the Python programming language and a popular open-source spatial library, GeoPandas, to plot parks, schools, day care centers and some special venues — and then to draw 500-foot buffers around them. The results were then clipped by neighborhood, and the percentage of buffered area for each location was calculated.
 
-## Targeted location types so far...
+**The analysis shows that at least 40% the city would be excluded for sleeping under the proposed rules. After the buffers are applied, the city in effect decreases from 475 square miles to 195 square miles.**
 
-* Public schools (polygons)
-* Private schools (polygons)
-* Children’s day care centers (points)
-* City parks (polygons)
-* Special venues (polygons)
+The analysis is documented in a Jupyter Notebook [here](https://nbviewer.jupyter.org/github/stiles/data/blob/master/la-city-homeless-buffer-maps/la-homeless-buffers.ipynb). The results of the neighborhood-specific buffer area calculations are [here](https://github.com/stiles/data/blob/master/la-city-homeless-buffer-maps/buffered/hood-breakdown.csv). A **rough** draft of the restricted area map is [here](https://api.mapbox.com/styles/v1/latimes/cjzsnpky006e81cns4x2pnywm.html?fresh=true&title=true&access_token=pk.eyJ1IjoibGF0aW1lcyIsImEiOiJjajhvcXRraGUwNnlwMzNyczR3cTBsaWh1In0.0cPKLwe2A0ET4P5CtWSiLQ#11.12/34.0205/-118.3413).
 
-## Places we could add... 
+## Targeted location types included:
+
+The proposal isn't yet specific, so we made some assumptions about the types of locations to include. The data for these locations come from city and county GIS portals, and they've been clipped to the city's boundaries before the analysis. **We drew 500-foot buffers around these places:** 
+
+* All public schools (polygons from the city)
+* Private schools (polygons extracted from the countywide parcel file)
+* Children’s day care centers (points from the county's file with the '72' use code)
+* City, county and state parks (polygons from the county's file) within city limits
+* Special venues (polygons extracted manually from the county's parcel file)
+  * Staples Center (AIN# 5138016913)
+  * Los Angeles Veterans Memorial Coliseum (5037027937)
+  * Hollywood Bowl (5549009903)
+  * Dodger Stadium (5415018016/5415018015)
+  * Universal Studios (2424043034/2424043021)
+  * El Pueblo de Los Angeles Historical Monument (5408008900)
+
+## Places we could also include:
 
 * Relate childcare points to parcels (perhaps just use points)
 * Homeless shelters (must acquire list of recent locations)
 * Bicycle lanes
-* Large venues such as Staples Center (included if AIN# below)
-  * Staples Center (5138016913)
-  * Los Angeles Veterans Memorial Coliseum (5037027937)
-  * Hollywood Bowl (5549009903)
-  * Dodger Stadium (5415018016/5415018015)
+* Large sports, iconic or events venues
   * Hollywood Walk of Fame (use segment of Hollywood Blvd?)
-  * Universal Studios (2424043034/2424043021)
-  * El Pubelo de Los Angeles Historical Monument (5408008900)
 * Bridges and tunnels in school routes (must acquire)
-* Sidewalk vending ordinance (must acquire)
 
 ## Data sources for locations
+
+Both raw and processed data for this project are available in this repo. 
 
 Some of these data sets — schools, for example — represent complete lists of properties. Others, such as those collected by Los Angeles County GIS officials for homeless shelters and child care centers, are compiled from official sources for private and government-related facilities, but they are not complete lists. 
 
 * [L.A. County parcel boundaries](https://permitting.gis.lacounty.gov/permitting/rest/services/energovDev/ViewableDev/MapServer/8)
 * [L.A. County land usage codes](http://egis3.lacounty.gov/dataportal/wp-content/uploads/2009/12/usecodes-chart.pdf)
 * [LAUSD school boundaries](https://maps.lacity.org/lahub/rest/services/LAUSD_Schools/MapServer/2)
-* [LA City parks](https://maps.lacity.org/lahub/rest/services/Recreation_and_Parks_Department/MapServer/5)
+* [LA city/county parks](https://egis3.lacounty.gov/dataportal/2016/10/25/department-of-parks-and-recreation-county-parks-and-open-space/)
 * [LA City homeless shelters](https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/158)
 * [LA City child care centers](https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/149)
 * [City of L.A. bikeways](http://geohub.lacity.org/datasets/230abc621b144dbc96cca83d65bd454d_0)
 
-## Converted location layers
+## Raw data location layers
 
-* la_city_boundary_3310.geojson
-* la_city_gis_bikeways_3310.geojson
-* la_city_parcels_3310.geojson
-* la_city_parks_3310.geojson
-* la_city_parks_buffer_500ft.geojson
-* la_city_parks_schools_childcare_homeless_buffer_dissolved_4326.geojson
-* la_city_parks_schools_childcare_homeless_buffer_dissolved.geojson
-* la_city_parks_schools_childcare_homeless_buffer.geojson
-* la_county_gis_childcare_3310.geojson
-* la_county_gis_childcare_buffer_500ft.geojson
-* la_county_gis_homeless_shelters_3310.geojson
-* la_county_homeless_shelters_buffer_500ft.geojson
-* lausd_schools_boundaries_3310.geojson
-* lausd_schools_buffer_500ft.geojson
+* la_city_county_parks.geojson
+* la_city_gis_childcare_clipped.geojson
+* la_city_parks_1566703413127.geojson
+* la_city_special_venues.geojson
+* la_county_private_school_parcels.geojson
+* la-county-neighborhoods-current.geojson
+* lausd_schools_boundaries_1566703408821.geojson
+* la_county_gis_homeless_shelters_1566703407847.geojson
+* la_city_boundary.geojson
+* la_city_bikeways.geojson
 
-## Methodology 
+## Processed data location layers
 
-Located layers for selected location types from LA City and LA County GIS portals. Projected the layers to *California Albers*, `ESPG: 3310`. Created a 500ft buffer around each layer. Dissolved the layers into one large layer, called `la_city_parks_schools_childcare_homeless_buffer_dissolved.geojson`. Returned the larger buffer layer back to `EPSG: 4326` for web mapping. 
+* special_venues_3310.geojson
+* private_schools_3310.geojson
+* public_schools_3310.geojson
+* parks_3310.geojson
+* childcare_3310.geojson
+* bikeways_3310.geojson
+* homeless_3310.geojson
+* city_3310.geojson
 
-[Batch data conversion](https://gist.github.com/stiles/1c4b46ef1ca5a8e9350b622aa8bc9110)
+[Batch data conversion sketching](https://gist.github.com/stiles/1c4b46ef1ca5a8e9350b622aa8bc9110)
 
 ## Stories?
 
-* Downtown/Skid Row essentially gone
-* Venice, too
-* Bunker Hill lone place in downtown
+* Downtown limited
+* Venice cut by 50%
+* Koreatown cut by 50%
 * Area in square miles: 
   * Before (475 sq. miles)
-  * After (142 sq. miles)
+  * After (195 sq. miles)
 
 ## Maps: Teal regions would be restricted areas under the proposal.
 
