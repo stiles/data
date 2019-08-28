@@ -4,7 +4,7 @@ This repo contains datasets and code used to examine the effects of [proposed ho
 
 To perform the spatial analysis, the Times used the Python programming language and a popular open-source spatial library, GeoPandas, to plot parks, schools, day care centers and some special venues — and then to draw 500-foot buffers around them. The results were then clipped by neighborhood, and the percentage of buffered area for each location was calculated.
 
-**The analysis shows that at least 40% the city would be excluded for sleeping under the proposed rules. After the buffers are applied, the city in effect decreases from 475 square miles to 195 square miles.**
+**The analysis shows that at least 40% the city would be excluded for sleeping under the proposed rules. After the buffers are applied, the city in effect decreases from 475 square miles to 196 square miles.**
 
 The analysis is documented in a Jupyter Notebook [here](https://nbviewer.jupyter.org/github/stiles/data/blob/master/la-city-homeless-buffer-maps/la-homeless-buffers.ipynb). The results of the neighborhood-specific buffer area calculations are [here](https://github.com/stiles/data/blob/master/la-city-homeless-buffer-maps/buffered/hood-breakdown.csv). A **rough** draft of the restricted area map is [here](https://api.mapbox.com/styles/v1/latimes/cjzsnpky006e81cns4x2pnywm.html?fresh=true&title=true&access_token=pk.eyJ1IjoibGF0aW1lcyIsImEiOiJjajhvcXRraGUwNnlwMzNyczR3cTBsaWh1In0.0cPKLwe2A0ET4P5CtWSiLQ#11.12/34.0205/-118.3413).
 
@@ -80,7 +80,7 @@ Some of these data sets — schools, for example — represent complete lists o
 * Koreatown cut by 50%
 * Area in square miles: 
   * Before (475 sq. miles)
-  * After (195 sq. miles)
+  * After (196 sq. miles)
 
 ## Maps: Orange regions would be restricted areas under the proposal.
 
