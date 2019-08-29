@@ -43,7 +43,7 @@ Some of these data sets — schools, for example — represent complete lists o
 * [LAUSD school boundaries](https://maps.lacity.org/lahub/rest/services/LAUSD_Schools/MapServer/2)
 * [LA city/county parks](https://egis3.lacounty.gov/dataportal/2016/10/25/department-of-parks-and-recreation-county-parks-and-open-space/)
 * [LA City homeless shelters](https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/158)
-* [LA City child care centers](https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/149)
+* [LA City child care centers](http://geohub.lacity.org/datasets/012f6981e8054e75934ed5b54b632244?geometry=-120.13%2C33.708%2C-116.216%2C34.504)
 * [City of L.A. bikeways](http://geohub.lacity.org/datasets/230abc621b144dbc96cca83d65bd454d_0)
 
 ## Raw data location layers
